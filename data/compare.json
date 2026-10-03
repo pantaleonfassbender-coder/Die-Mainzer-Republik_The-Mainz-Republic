@@ -85,6 +85,102 @@
      ]
     }
    ]
+  },
+  {
+   "id": "eidformel",
+   "titel": "Die Eidesformel",
+   "titel_en": "The form of the oath",
+   "frage": "Was genau sollte geschworen werden, und warum konnten die Geistlichen es nicht?",
+   "frage_en": "What exactly was to be sworn, and why could the clergy not swear it?",
+   "note": "Custines Formel verlangt Treue zu Volk, Freiheit und Gleichheit und die Entsagung vom Kurfürsten. Zwei Tage später kürzen die Kommissare sie und lassen den Kurfürsten weg, weil der Landesherr zugleich Erzbischof war. Die Geistlichen antworten, auch der gekürzte Eid trenne sie von Papst und Bischöfen, und berufen sich auf die Gewissensfreiheit, die die Republik selbst verkünde.",
+   "note_en": "Custine's form demands loyalty to the people, liberty and equality and the renunciation of the Elector. Two days later the commissioners shorten it and drop the Elector, because the ruler was also the archbishop. The clergy answer that even the shortened oath would separate them from the Pope and the bishops, and invoke the freedom of conscience the Republic itself proclaims.",
+   "voices": [
+    {
+     "text": "eid",
+     "sec": "befehl",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "befehl",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "weigerung",
+     "n": [
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sklaven",
+   "titel": "„Als Sklaven behandelt“",
+   "titel_en": "'Treated as slaves'",
+   "frage": "November 1792 bis Februar 1793: Wie wird aus einer Rede ein Befehl?",
+   "frage_en": "November 1792 to February 1793: how does a speech become an order?",
+   "note": "Forster sagt im Klub, wer nicht frei sein wolle, bleibe Eroberter, dem man huldigen lässt. Die Kommissare des Exekutivrats drohen im Februar, wer für Freiheit keinen Sinn habe, werde als „sklavisches feindliches Volk“ behandelt. Die Kommissare des Nationalkonvents sagen es am 21. Februar in einem Satz.",
+   "note_en": "Forster says in the club that whoever does not want to be free remains conquered, made to swear homage. In February the Executive Council's commissioners threaten that those with no sense for freedom will be treated as a 'slavish, hostile people'. The Convention's commissioners say it in one sentence on 21 February.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "rede4",
+     "n": [
+      28
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "befehl",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "aufschub",
+     "n": [
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kapitulation",
+   "titel": "Für wen gilt die Kapitulation?",
+   "titel_en": "For whom does the capitulation hold?",
+   "frage": "Oktober 1792 und Februar 1793: dieselben Artikel, zwei Lesarten.",
+   "frage_en": "October 1792 and February 1793: the same articles, two readings.",
+   "note": "Die Kapitulation von Marienborn versprach dem Klerus freien Abzug mit seiner Habe und jedem Einwohner den Schutz seines Eigentums. Im Februar zitieren die Geistlichen genau diese Artikel. Die Kommissare des Nationalkonvents antworten, die Kapitulation sei nur für die Freunde der Republik geschlossen worden.",
+   "note_en": "The capitulation of Marienborn promised the clergy free departure with their goods and every inhabitant the protection of his property. In February the clergy quote exactly these articles. The Convention's commissioners answer that the capitulation was concluded only for the friends of the Republic.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "uebergabe",
+     "n": [
+      12
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "weigerung",
+     "n": [
+      12
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "aufschub",
+     "n": [
+      17
+     ]
+    }
+   ]
   }
  ]
 }

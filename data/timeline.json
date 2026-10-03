@@ -82,13 +82,42 @@
    "text_en": "The National Convention in Paris determines how the old order is to be abolished in the occupied territories and new administrations elected. (After modern accounts; module planned.)"
   },
   {
+   "d": "16.–20. Februar 1793",
+   "d_en": "16–20 February 1793",
+   "side": "franzosen",
+   "titel": "Der Befehl zum Eid",
+   "titel_en": "The order to swear",
+   "text": "Custine befiehlt: Wer wählen will, schwört Freiheit und Gleichheit und entsagt dem Kurfürsten; Adlige, Geistliche und kurfürstliche Beamte, die nicht schwören, werden über den Rhein ausgewiesen. Zünfte, Geistlichkeit und Kaufleute verweigern den Eid.",
+   "text_en": "Custine orders: whoever wants to vote swears to liberty and equality and renounces the Elector; nobles, clergy and Electoral officials who do not swear are expelled across the Rhine. Guilds, clergy and merchants refuse the oath.",
+   "cite": "#/text/eid/befehl/2",
+   "citeLabel": "Eid [2]",
+   "citeLabel_en": "Eid [2]",
+   "plate": "baeumche"
+  },
+  {
+   "d": "21.–23. Februar 1793",
+   "d_en": "21–23 February 1793",
+   "side": "franzosen",
+   "titel": "Aufschub, Widerruf, Ausweisung",
+   "titel_en": "Postponement, reversal, expulsion",
+   "text": "Am Morgen des 21. wird der Eid ausgesetzt, am Nachmittag widerrufen die Kommissare des Pariser Nationalkonvents alles: „Wollt ihr Sklaven seyn, dann sollt ihr auch als solche von uns behandelt werden.“ Geistliche Räte und der Kaufmann Dumont werden über die Rheinbrücke ausgewiesen.",
+   "text_en": "On the morning of the 21st the oath is suspended; in the afternoon the commissioners of the National Convention in Paris revoke everything: 'If you want to be slaves, then you shall be treated by us as such.' Clerical councillors and the merchant Dumont are expelled across the Rhine bridge.",
+   "cite": "#/text/eid/aufschub/19",
+   "citeLabel": "Eid [19]",
+   "citeLabel_en": "Eid [19]"
+  },
+  {
    "d": "24. Februar 1793",
    "d_en": "24 February 1793",
    "side": "klub",
-   "titel": "Wahl und Eid",
-   "titel_en": "Election and oath",
-   "text": "Wahlen in Mainz und den Gemeinden der Umgebung; wählen darf, wer schwört. Viele verweigern den Eid. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Elections in Mainz and the surrounding communities; whoever swears may vote. Many refuse the oath. (After modern accounts; module planned.)"
+   "titel": "Der Wahltag",
+   "titel_en": "Election day",
+   "text": "Wahlen in Mainz und den Gemeinden der Umgebung; wählen darf nur, wer schwört. In der Stadt schwören und wählen nach Hoffmann weniger als 370 von fast zehntausend Stimmberechtigten; Wachen stehen an den Kirchentüren, Reiter in den Straßen.",
+   "text_en": "Elections in Mainz and the surrounding communities; only those who swear may vote. In the city, according to Hoffmann, fewer than 370 out of nearly ten thousand entitled to vote swear and vote; guards stand at the church doors, cavalry in the streets.",
+   "cite": "#/text/eid/wahltag/24",
+   "citeLabel": "Eid [24]",
+   "citeLabel_en": "Eid [24]",
+   "plate": "baum1793"
   },
   {
    "d": "17.–18. März 1793",

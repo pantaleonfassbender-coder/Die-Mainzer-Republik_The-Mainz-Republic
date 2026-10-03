@@ -1,8 +1,8 @@
 {
  "lede": "Was die Zeit selbst zeigt und was spätere Zeiten daraus machten. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, zu denen sie gehören.",
  "lede_en": "What the time itself shows, and what later times made of it. Every plate names its source; the captions point to the passages they belong to.",
- "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862); Johann Heinrich Wilhelm Tischbein, Bildnis Georg Forsters (um 1785); der Zug zum ersten Mainzer Freiheitsbaum (Kupferstich, 1792). Dazu eine Seite aus Forsters Sämmtlichen Schriften (1843) aus dem Internet Archive. Für die Site verkleinert.",
- "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862); Johann Heinrich Wilhelm Tischbein, portrait of Georg Forster (c. 1785); the procession to the first liberty tree in Mainz (engraving, 1792). With a page of Forster's collected writings (1843) from the Internet Archive. Reduced in size for the site.",
+ "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862); Johann Heinrich Wilhelm Tischbein, Bildnis Georg Forsters (um 1785); der Zug zum ersten Mainzer Freiheitsbaum (Kupferstich, 1792). Dazu eine Seite aus Forsters Sämmtlichen Schriften (1843) aus dem Internet Archive. Für die Site verkleinert. Für „Wahl und Eid“: der Mainzer Freiheitsbaum vom 13. Januar 1793 (Revolutions-Almanach 1794) und ein Mainzer Spottbild aus J. J. Ihlées Tagebuch (1793).",
+ "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862); Johann Heinrich Wilhelm Tischbein, portrait of Georg Forster (c. 1785); the procession to the first liberty tree in Mainz (engraving, 1792). With a page of Forster's collected writings (1843) from the Internet Archive. Reduced in size for the site. For 'Election and oath': the Mainz liberty tree of 13 January 1793 (Revolutions-Almanach 1794) and a Mainz satirical print from J. J. Ihlée's diary (1793).",
  "plates": [
   {
    "id": "erthal",
@@ -73,6 +73,26 @@
    "caption_en": "The first page of the speech in Forster's collected writings, edited in 1843 by his daughter Therese and Georg Gottfried Gervinus, fifty years after the end of the Mainz Republic. The heading dates the speech to 15 November 1792, Hoffmann to the 17th (Forster [32]).",
    "source": "Georg Forster's sämmtliche Schriften, Bd. 6 (Leipzig 1843), S. 413; Internet Archive (University of Toronto), gemeinfrei",
    "cite": "#/text/forster1792/rede1/7"
+  },
+  {
+   "id": "baum1793",
+   "side": "klub",
+   "titel": "Der Freiheitsbaum vom 13. Januar 1793",
+   "titel_en": "The liberty tree of 13 January 1793",
+   "caption": "„Abbildung des Freiheits-Baums und der Piken, so zu Mainz d. 13ten Jänner 1793 gepflanzt wurden“: ein Stamm, in den Farben der Republik umwunden, mit Freiheitsmütze, dem Schild „Paix aux peuples, Guerre aux tyrans“ (Friede den Völkern, Krieg den Tyrannen) und zwei Piken, mit Maßstab. Sechs Wochen später stand der Eid vor der Wahl (Eid [2]).",
+   "caption_en": "'Picture of the liberty tree and the pikes planted at Mainz on 13 January 1793': a pole wound in the colours of the Republic, with a cap of liberty, the shield 'Paix aux peuples, Guerre aux tyrans' (peace to the peoples, war on the tyrants) and two pikes, with a scale. Six weeks later the oath stood before the vote (Eid [2]).",
+   "source": "Kolorierter Kupferstich, Frontispiz zu H. A. O. Reichard (Hg.), Revolutions-Almanach (1794); Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/eid/befehl/2"
+  },
+  {
+   "id": "baeumche",
+   "side": "reich",
+   "titel": "„A Baeumche ohne Wurtzel“",
+   "titel_en": "'A little tree without root'",
+   "caption": "Die Antwort der Gegner, auf Mainzerisch: „Nau wie soll mir's gefallen, s'is außer a Baeumche ohne Wurtzel, un a Kaepla ohne Kopf.“ (Wie soll es mir denn gefallen? Es ist nichts als ein Bäumchen ohne Wurzel und ein Käppchen ohne Kopf.) Der Baum steht im Pflaster, gestützt, ohne Wurzeln. Spottbild aus einem Frankfurter Tagebuch von 1793, als die Mainzer Zünfte den Eid verweigerten (Eid [9]).",
+   "caption_en": "The opponents' answer, in Mainz dialect: 'Nau wie soll mir's gefallen, s'is außer a Baeumche ohne Wurtzel, un a Kaepla ohne Kopf.' (Well, how should I like it? It's nothing but a little tree without a root and a little cap without a head.) The tree stands in the paving, propped up, without roots. A satirical print from a Frankfurt diary of 1793, when the guilds of Mainz refused the oath (Eid [9]).",
+   "source": "Kolorierter Kupferstich, 1793, in: J. J. Ihlée, Tagebuch von der Einnahme Frankfurts durch die Neufranken bis zur Wiedereroberung (1793); Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/eid/weigerung/9"
   }
  ]
 }

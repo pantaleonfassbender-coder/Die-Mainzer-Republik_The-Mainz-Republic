@@ -19,19 +19,19 @@
    "kurz_en": "Forster in the club: the speech of November 1792",
    "warum": "Forsters Rede „Ueber das Verhältniß der Mainzer gegen die Franken“ vollständig: Die Franken sind Brüder, jetzt ist der Augenblick, eine gemäßigte Verfassung ist ein „Mittelding“, und wer sich nicht für die Freiheit erklärt, bleibt Eroberter. Dazu der Gegner Anton Hoffmann über Forsters Eintritt, Böhmers rotes und schwarzes Buch und die Rede selbst. Am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "Forster's speech 'On the relation of the people of Mainz to the Franks' in full: the Franks are brothers, the moment is now, a moderate constitution is a 'middle thing', and whoever does not declare for freedom remains conquered. With the opponent Anton Hoffmann on Forster's joining, Böhmer's red and black books and the speech itself. Read against the page images, with English translation."
+  },
+  {
+   "id": "eid",
+   "datei": "eid",
+   "side": "klub",
+   "zk": "Eid",
+   "kurz": "Wahl und Eid (16.–24. Februar 1793)",
+   "kurz_en": "Election and oath (16–24 February 1793)",
+   "warum": "Die Woche vor der ersten Wahl: Custines Befehl, wer wählen wolle, müsse Freiheit und Gleichheit schwören und dem Kurfürsten entsagen; die Weigerung der Zünfte und der Geistlichkeit; ein Aufschub für wenige Stunden und sein Widerruf durch die Pariser Kommissare; Ausweisungen über die Rheinbrücke; und ein Wahltag mit weniger als 370 Schwörenden in der Stadt. Nach Hoffmanns Beilagen und Bericht, am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "The week before the first election: Custine's order that whoever wished to vote must swear to liberty and equality and renounce the Elector; the refusal of the guilds and the clergy; a postponement for a few hours and its reversal by the commissioners from Paris; expulsions across the Rhine bridge; and an election day with fewer than 370 swearing in the city. From Hoffmann's appendices and account, read against the page images, with English translation."
   }
  ],
  "planned": [
-  {
-   "id": "eid",
-   "side": "klub",
-   "zk": "Wahl und Eid",
-   "kurz": "Wahl und Eid (Februar 1793)",
-   "kurz_en": "Election and oath (February 1793)",
-   "warum": "Die Kommissare des Pariser Nationalkonvents schreiben Wahlen aus: wählen darf, wer der Freiheit und Gleichheit Treue schwört und dem Kurfürsten entsagt. Die Eidformel, die Wahlordnung und die Berichte über Gemeinden, die den Eid verweigerten.",
-   "warum_en": "The commissioners of the National Convention in Paris call elections: whoever swears loyalty to liberty and equality and renounces the Elector may vote. The oath, the electoral rules and the reports of communities that refused it.",
-   "quelle": "[A. Hoffmann], Darstellung der Mainzer Revolution, Hefte 5–11 (1793–1794) mit ihren Beylagen; Abdrucke bei Klein (1863) und F. X. Remling, Die Rheinpfalz in der Revolutionszeit von 1792 bis 1798 (Speyer 1865–1866)."
-  },
   {
    "id": "konvent",
    "side": "klub",

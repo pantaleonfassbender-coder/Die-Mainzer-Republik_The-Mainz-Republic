@@ -26,6 +26,9 @@ SOURCES = {
     "forster": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Georg_Forster-larger.jpg",
     "umzug1792": "https://upload.wikimedia.org/wikipedia/commons/5/57/Freiheitsumzug-Mainz-1792.jpg",
     "rede1843": "https://archive.org/download/smmtlicheschri06forsuoft/page/n424_w1800.jpg",
+    # Modul „Wahl und Eid“
+    "baum1793": "https://upload.wikimedia.org/wikipedia/commons/8/81/Freiheitsbaum_Mainz.jpg",
+    "baeumche": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Erster_Freiheitsbaum_Mainz.jpg",
 }
 
 
