@@ -125,8 +125,12 @@
    "side": "klub",
    "titel": "Der Konvent im Deutschhaus",
    "titel_en": "The Convention in the Deutschhaus",
-   "text": "Der Rheinisch-Deutsche Nationalkonvent tritt zusammen, Andreas Joseph Hofmann als Präsident, Forster als Vizepräsident, und erklärt das Land von Landau bis Bingen für frei. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The Rhenish-German National Convention meets, with Andreas Joseph Hofmann as president and Forster as vice-president, and declares the land from Landau to Bingen free. (After modern accounts; module planned.)"
+   "text": "Der Rheinisch-Deutsche Nationalkonvent tritt im Rittersaal des Deutschhauses zusammen, Andreas Joseph Hofmann als Präsident, Forster als Vizepräsident. Am 18. erklärt er das Land von Landau bis Bingen zu einem freien, unzertrennlichen Staat, sagt sich von Kaiser und Reich los und droht jedem zurückkehrenden alten Herrn mit dem Tod.",
+   "text_en": "The Rhenish-German National Convention meets in the Knights' Hall of the Deutschhaus, with Andreas Joseph Hofmann as president and Forster as vice-president. On the 18th it declares the land from Landau to Bingen a free and indivisible state, renounces Emperor and Empire, and threatens death to any returning old lord.",
+   "cite": "#/text/konvent/freistaat/5",
+   "citeLabel": "Konvent [5]",
+   "citeLabel_en": "Konvent [5]",
+   "plate": "katechismus"
   },
   {
    "d": "21. März 1793",
@@ -134,8 +138,24 @@
    "side": "klub",
    "titel": "Der Anschluss",
    "titel_en": "Union",
-   "text": "Der Konvent beschließt, den Anschluss an Frankreich zu erbitten; Forster reist mit Adam Lux nach Paris, um ihn zu überbringen. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The Convention resolves to ask for union with France; Forster travels to Paris with Adam Lux to deliver the request. (After modern accounts; module planned.)"
+   "text": "Der Konvent beschließt einmütig, Frankreich um die Einverleibung zu bitten: Seine Unabhängigkeit habe er „nur unter dem Schutz der Frankenrepublik“ erringen können. Forster, Patocki und Adam Lux reisen am 25. März nach Paris.",
+   "text_en": "The Convention resolves unanimously to ask France for incorporation: it could win its independence 'only under the protection of the Republic of the Franks'. Forster, Patocki and Adam Lux leave for Paris on 25 March.",
+   "cite": "#/text/konvent/anschluss/11",
+   "citeLabel": "Konvent [11]",
+   "citeLabel_en": "Konvent [11]",
+   "plate": "lux"
+  },
+  {
+   "d": "27. März 1793",
+   "d_en": "27 March 1793",
+   "side": "klub",
+   "titel": "Das Gesetz über die Nichtschwörenden",
+   "titel_en": "The law on the non-swearers",
+   "text": "Wer binnen drei Tagen den Bürgereid nicht leistet, wird mit seiner Familie ausgewiesen, sein Vermögen beschlagnahmt. Der Eid ist nicht mehr Bedingung des Wahlrechts, sondern des Bleibens.",
+   "text_en": "Whoever does not take the citizens' oath within three days is expelled with his family and his property seized. The oath is no longer the condition of the vote but of staying.",
+   "cite": "#/text/konvent/nichtgeschworene/18",
+   "citeLabel": "Konvent [18]",
+   "citeLabel_en": "Konvent [18]"
   },
   {
    "d": "Ende März 1793",

@@ -13,7 +13,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 
 - **Wahl und Eid (16.–24. Februar 1793)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 9 (S. 641–672, Beylagen No. 56–59) und Heft 10 (Beylagen No. 65–66, S. 750–754): Custines Eidbefehl, die Proklamationen der Kommissare, die Vorstellung der Geistlichkeit, Aufschub und Widerruf, die Ausweisungen und der Wahltag; am Seitenbild gelesen, mit englischer Übersetzung.
 
-Dazu sechs Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+- **Der Konvent: Freistaat und Anschluss (17.–29. März 1793)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 11 (S. 801–822, Beylagen No. 78–80 und 83): die Eröffnung im Deutschhaus, das Freistaatsdekret vom 18. März, der Anschlussbeschluss vom 21. März mit dem Schreiben nach Paris und das Gesetz über die Nichtschwörenden vom 27. März; am Seitenbild gelesen, mit englischer Übersetzung.
+
+Dazu neun Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

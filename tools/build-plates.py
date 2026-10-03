@@ -29,6 +29,9 @@ SOURCES = {
     # Modul „Wahl und Eid“
     "baum1793": "https://upload.wikimedia.org/wikipedia/commons/8/81/Freiheitsbaum_Mainz.jpg",
     "baeumche": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Erster_Freiheitsbaum_Mainz.jpg",
+    # Modul „Der Konvent“
+    "katechismus": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Aristokratenkatechismus.png",
+    "lux": C + "9/98/Adam_Lux_-_n%C3%A9_%C3%A0_Ebernbourg_en_1767%2C_d%C3%A9put%C3%A9_extra.re_de_Mayence_%C3%A0_la_Convention%2C_d%C3%A9capit%C3%A9_le_14_brumaire_l%27an_2_-_estampe_-_F._Bonneville_del._sculp._-_btv1b6943947d.jpg/1920px-thumbnail.jpg",
 }
 
 

@@ -29,19 +29,19 @@
    "kurz_en": "Election and oath (16–24 February 1793)",
    "warum": "Die Woche vor der ersten Wahl: Custines Befehl, wer wählen wolle, müsse Freiheit und Gleichheit schwören und dem Kurfürsten entsagen; die Weigerung der Zünfte und der Geistlichkeit; ein Aufschub für wenige Stunden und sein Widerruf durch die Pariser Kommissare; Ausweisungen über die Rheinbrücke; und ein Wahltag mit weniger als 370 Schwörenden in der Stadt. Nach Hoffmanns Beilagen und Bericht, am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "The week before the first election: Custine's order that whoever wished to vote must swear to liberty and equality and renounce the Elector; the refusal of the guilds and the clergy; a postponement for a few hours and its reversal by the commissioners from Paris; expulsions across the Rhine bridge; and an election day with fewer than 370 swearing in the city. From Hoffmann's appendices and account, read against the page images, with English translation."
+  },
+  {
+   "id": "konvent",
+   "datei": "konvent",
+   "side": "klub",
+   "zk": "Konvent",
+   "kurz": "Der Konvent: Freistaat und Anschluss (17.–29. März 1793)",
+   "kurz_en": "The Convention: free state and union (17–29 March 1793)",
+   "warum": "Der Rheinisch-Deutsche Nationalkonvent im Deutschhaus, dem heutigen Landtag: das Dekret vom 18. März, das das Land von Landau bis Bingen für frei erklärt und den alten Herren mit dem Tod droht; drei Tage später die Bitte um Anschluss an Frankreich, mit dem Schreiben an den Pariser Konvent; und das Gesetz vom 27. März, das die Nichtschwörenden mit ihren Familien ausweist. Nach Hoffmanns Beilagen und Bericht, am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "The Rhenish-German National Convention in the Deutschhaus, today the state parliament: the decree of 18 March declaring the land from Landau to Bingen free and threatening the old lords with death; three days later the request for union with France, with the address to the Convention in Paris; and the law of 27 March expelling the non-swearers with their families. From Hoffmann's appendices and account, read against the page images, with English translation."
   }
  ],
  "planned": [
-  {
-   "id": "konvent",
-   "side": "klub",
-   "zk": "Konvent",
-   "kurz": "Der Rheinisch-Deutsche Nationalkonvent (17.–21. März 1793)",
-   "kurz_en": "The Rhenish-German National Convention (17–21 March 1793)",
-   "warum": "Im Deutschhaus, dem heutigen Landtag von Rheinland-Pfalz, erklärt der Konvent das Land von Landau bis Bingen für frei und unabhängig, sagt sich von Kaiser und Reich los und beschließt drei Tage später, den Anschluss an Frankreich zu erbitten.",
-   "warum_en": "In the Deutschhaus, today the seat of the Landtag of Rhineland-Palatinate, the Convention declares the land from Landau to Bingen free and independent, renounces Emperor and Empire, and three days later resolves to ask for union with France.",
-   "quelle": "[A. Hoffmann], Darstellung der Mainzer Revolution, Hefte 5–11 (1793–1794) mit ihren Beylagen; Dekrete des Konvents; Abdrucke bei Klein (1863) und Remling (1865–1866)."
-  },
   {
    "id": "darstellung",
    "side": "klub",

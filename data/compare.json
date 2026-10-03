@@ -181,6 +181,88 @@
      ]
     }
    ]
+  },
+  {
+   "id": "freistaat",
+   "titel": "Frei, oder französisch?",
+   "titel_en": "Free, or French?",
+   "frage": "18. und 21. März 1793: Wie wird aus einer Unabhängigkeitserklärung in drei Tagen ein Anschlussgesuch?",
+   "frage_en": "18 and 21 March 1793: how does a declaration of independence become a request for union in three days?",
+   "note": "Am 18. März erklärt der Konvent einen „freien, unzertrennlichen Staat“, dessen einziger Souverän das Volk sei. Am 20. sagen die Redner, ein kleiner Freistaat könne sich gegen die Fürsten nicht halten und ein Bündnis nicht bezahlen. Am 21. bittet der Konvent um Einverleibung, weil die Unabhängigkeit nur unter dem Schutz Frankreichs zu erringen gewesen sei.",
+   "note_en": "On 18 March the Convention declares a 'free, indivisible state' whose sole sovereign is the people. On the 20th the speakers say a small free state cannot hold out against the princes or pay for an alliance. On the 21st the Convention asks for incorporation, because independence could be won only under France's protection.",
+   "voices": [
+    {
+     "text": "konvent",
+     "sec": "freistaat",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "anschluss",
+     "n": [
+      9
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "anschluss",
+     "n": [
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eid_bleiben",
+   "titel": "Vom Wahlrecht zum Bleiberecht",
+   "titel_en": "From the right to vote to the right to stay",
+   "frage": "Februar und März 1793: Was kostet es, nicht zu schwören?",
+   "frage_en": "February and March 1793: what does it cost not to swear?",
+   "note": "Im Februar ist der Eid Bedingung des Wahlrechts; Adlige, Geistliche und Beamte, die nicht schwören, werden ausgewiesen. Im März trifft das Gesetz des Konvents alle: drei Tage Frist, dann Ausweisung mit der Familie, Beschlag des Vermögens und Verlust des Bürgerrechts auf immer. Beschlossen hat es ein Konvent, den nur die Schwörenden gewählt hatten.",
+   "note_en": "In February the oath is the condition of the vote; nobles, clergy and officials who do not swear are expelled. In March the Convention's law strikes everyone: three days' grace, then expulsion with one's family, seizure of property and loss of citizenship for ever. It was passed by a Convention elected only by those who had sworn.",
+   "voices": [
+    {
+     "text": "eid",
+     "sec": "befehl",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "nichtgeschworene",
+     "n": [
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kinder",
+   "titel": "Die Kinder der Ausgewiesenen",
+   "titel_en": "The children of the expelled",
+   "frage": "Barmherzigkeit, Gerechtigkeit oder Staatsräson?",
+   "frage_en": "Mercy, justice, or reason of state?",
+   "note": "Böhmer verlangt, das Erbe der Kinder zu sichern, weil ihr Anspruch dem des Staates vorgehe. Hofmann und, nach Hoffmann, Forster halten dagegen. Das Gesetz vom 27. März schützt am Ende nur die Kinder, die selbst schwören. Den Wortwechsel kennen wir nur aus dem Bericht des Gegners.",
+   "note_en": "Böhmer demands that the children's inheritance be secured, because their claim comes before the state's. Hofmann and, according to Hoffmann, Forster oppose him. The law of 27 March in the end protects only the children who swear themselves. We know the exchange only from the opponent's account.",
+   "voices": [
+    {
+     "text": "konvent",
+     "sec": "nichtgeschworene",
+     "n": [
+      17
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "nichtgeschworene",
+     "n": [
+      18
+     ]
+    }
+   ]
   }
  ]
 }
