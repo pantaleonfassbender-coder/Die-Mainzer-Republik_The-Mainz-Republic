@@ -23,7 +23,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 
 - **Gegenstimmen: Mainz im Genusse der Freiheit und Gleichheit (1793)** — anonyme Mainzer Flugschrift, S. 6–9, 17–28; am Seitenbild gelesen, mit englischer Übersetzung.
 
-Dazu neunzehn Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz* und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+- **Forster: Darstellung der Revolution in Mainz (Fragment, 1792)** — Sämmtliche Schriften, Bd. 6 (1843), S. 352–412, Auszüge; am Seitenbild gelesen, mit englischer Übersetzung.
+
+Dazu einundzwanzig Vergleiche. Geplant ist das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

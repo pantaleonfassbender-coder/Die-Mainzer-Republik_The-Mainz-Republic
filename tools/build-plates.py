@@ -46,6 +46,8 @@ SOURCES = {
     # Modul „Gegenstimmen“
     "klubsitzung": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mainzjakobiner.jpg",
     "tanz": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jakobiner_beim_Tanz_um_den_Freiheitsbaum.jpg",
+    # Modul „Darstellung“
+    "darstellung1843": "https://archive.org/download/smmtlicheschri06forsuoft/page/n363_w1800.jpg",
 }
 
 ROTATE = {"karte1884": -90}  # sideways in the book

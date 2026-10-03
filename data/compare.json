@@ -270,14 +270,21 @@
    "titel_en": "'The ridiculous fear of a siege'",
    "frage": "November 1792, März 1793, Juni 1793: was versprochen wurde und was kam.",
    "frage_en": "November 1792, March 1793, June 1793: what was promised and what came.",
-   "note": "Forster nennt im November die Furcht vor einer Belagerung lächerlich, die Franken würden zu Hunderttausenden kommen. Das Schreiben des Konvents nach Paris nennt Mainz eine Festung, an der jeder Angriff zu Schanden werde. Im Juni brennen nach Schaber Liebfrauenkirche und Dom.",
-   "note_en": "In November Forster calls the fear of a siege ridiculous; the Franks would come by hundreds of thousands. The Convention's address to Paris calls Mainz a fortress on which every attack must come to shame. In June, according to Schaber, the Liebfrauenkirche and the cathedral burn.",
+   "note": "Forster nennt im November die Furcht vor einer Belagerung lächerlich, die Franken würden zu Hunderttausenden kommen. Das Schreiben des Konvents nach Paris nennt Mainz eine Festung, an der jeder Angriff zu Schanden werde. Im Juni brennen nach Schaber Liebfrauenkirche und Dom. Bemerkenswert: Im Herbst 1792 hatte Forster in seiner unveröffentlichten „Darstellung“ selbst geschrieben, der nächste Feldzug müsse „mit der Belagerung von Mainz“ beginnen.",
+   "note_en": "In November Forster calls the fear of a siege ridiculous; the Franks would come by hundreds of thousands. The Convention's address to Paris calls Mainz a fortress on which every attack must come to shame. In June, according to Schaber, the Liebfrauenkirche and the cathedral burn. Remarkably, in autumn 1792 Forster himself had written in his unpublished 'Account' that the next campaign must open 'with the siege of Mainz'.",
    "voices": [
     {
      "text": "forster1792",
      "sec": "rede2",
      "n": [
       18
+     ]
+    },
+    {
+     "text": "darstellung",
+     "sec": "schluss",
+     "n": [
+      5
      ]
     },
     {
@@ -559,6 +566,64 @@
      "sec": "rede4",
      "n": [
       31
+     ]
+    }
+   ]
+  },
+  {
+   "id": "einnahme_zweimal",
+   "titel": "Der 21. Oktober, zweimal",
+   "titel_en": "21 October, twice",
+   "frage": "Derselbe Tag beim Gegner und beim späteren Klubisten.",
+   "frage_en": "The same day in the opponent and in the later Clubist.",
+   "note": "Hoffmann und Forster erzählen dieselben Szenen: offene Tore, abziehende Kaiserliche, Mainzer, die die Weinberge plündern. Hoffmann lobt die Kaiserlichen und gibt dem „Janhagel“ die Schuld; Forster nennt die Kaiserlichen Plünderer und sieht im Pöbel die Folge des „priesterlichen Despotismus“. Beide verachten das Volk, das sie zu vertreten beanspruchen.",
+   "note_en": "Hoffmann and Forster tell the same scenes: open gates, departing Imperial troops, people of Mainz plundering the vineyards. Hoffmann praises the Imperial troops and blames the 'rabble'; Forster calls the Imperial troops plunderers and sees in the rabble the result of 'priestly despotism'. Both despise the people they claim to speak for.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "einzug",
+     "n": [
+      14,
+      15
+     ]
+    },
+    {
+     "text": "darstellung",
+     "sec": "uebergabe",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "schuld_kapitulation",
+   "titel": "Wessen Schuld war die Übergabe?",
+   "titel_en": "Whose fault was the surrender?",
+   "frage": "Oktober 1792: Verrat, Unfähigkeit oder Krieg des Kurfürsten?",
+   "frage_en": "October 1792: treason, incompetence, or the Elector's war?",
+   "note": "Hoffmann verdächtigt den Unterhändler Eickemeyer, der zu den Franzosen überging. Forster spottet über eine Regierung, die ihr eigenes Angebot vergaß, und gibt die Schuld am ganzen Unglück dem Kurfürsten, der sich ohne Not in den Krieg mischte und dann mit seinem Hof abreiste.",
+   "note_en": "Hoffmann suspects the negotiator Eickemeyer, who went over to the French. Forster mocks a government that forgot its own offer and blames the whole misfortune on the Elector, who meddled in the war without need and then left with his court.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "uebergabe",
+     "n": [
+      11
+     ]
+    },
+    {
+     "text": "darstellung",
+     "sec": "uebergabe",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "darstellung",
+     "sec": "schluss",
+     "n": [
+      5
      ]
     }
    ]

@@ -79,19 +79,19 @@
    "kurz_en": "Voices against: 'Mainz in the Enjoyment of Liberty and Equality' (1793)",
    "warum": "Eine anonyme Mainzer Flugschrift aus dem Jahr der Belagerung, von gemäßigten Bürgern: Reformen ja, aber nicht durch fremde Waffen. Sie überliefert den Verfassungsvorschlag der Kaufleute (81 gegen 13 Stimmen), gegen den Forster sprach, druckt Böhmers „Warnung“ an die Beamten vollständig ab und erzählt das rote und das schwarze Buch aus der Sicht derer, die unterschreiben mussten. Am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "An anonymous Mainz pamphlet from the year of the siege, by moderate citizens: reforms yes, but not by foreign arms. It preserves the merchants' constitutional proposal (81 votes to 13) that Forster spoke against, prints Böhmer's 'Warning' to the officials in full, and tells the red and the black book from the point of view of those who had to sign. Read against the page images, with English translation."
+  },
+  {
+   "id": "darstellung",
+   "datei": "darstellung",
+   "side": "klub",
+   "zk": "Darstellung",
+   "kurz": "Forster: Darstellung der Revolution in Mainz (Fragment, 1792)",
+   "kurz_en": "Forster: Account of the Revolution in Mainz (fragment, 1792)",
+   "warum": "Forsters unvollendete Geschichte der Mainzer Ereignisse, in Briefen 1792 in Mainz geschrieben: die Übergabe vom Stephansturm aus gesehen, eine Regierung, die ihr eigenes Kapitulationsangebot vergisst, eine Anklage gegen den Kurfürsten, der die Stadt in den Krieg zog und die Bürger zurückließ, und eine Hoffnung, die mitten im Satz abbricht. Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "Forster's unfinished history of the Mainz events, written in letters in Mainz in 1792: the surrender seen from St Stephen's tower, a government that forgets its own offer of capitulation, an indictment of the Elector who drew the city into the war and left its citizens behind, and a hope that breaks off in mid-sentence. Read against the page images, with English translation."
   }
  ],
  "planned": [
-  {
-   "id": "darstellung",
-   "side": "klub",
-   "zk": "Darstellung",
-   "kurz": "Forster: Darstellung der Revolution in Mainz (1793)",
-   "kurz_en": "Forster: Account of the Revolution in Mainz (1793)",
-   "warum": "In Paris, abgeschnitten von der belagerten Stadt, beginnt Forster eine Darstellung dessen, was in Mainz geschehen war, und bricht sie ab. Ein Rechenschaftsbericht und eine Verteidigung, geschrieben, als die Stadt noch nicht gefallen war.",
-   "warum_en": "In Paris, cut off from the besieged city, Forster begins an account of what had happened in Mainz, and leaves it unfinished. A report and a defence, written while the city had not yet fallen.",
-   "quelle": "G. Forster, Sämmtliche Schriften (1843), Band zu prüfen."
-  },
   {
    "id": "nachleben",
    "side": "rezeption",
