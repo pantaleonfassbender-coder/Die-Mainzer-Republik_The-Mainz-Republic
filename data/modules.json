@@ -1,0 +1,127 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "custine",
+   "side": "franzosen",
+   "zk": "Custine",
+   "kurz": "Custine an die Mainzer (Oktober–November 1792)",
+   "kurz_en": "Custine to the people of Mainz (October–November 1792)",
+   "warum": "Die Proklamationen des Generals nach der Einnahme: Freiheit für die Völker, Krieg den Palästen, Kontributionen für Adel und Geistlichkeit. Gedruckt deutsch und französisch, für die Mainzer geschrieben, im Namen der Republik.",
+   "warum_en": "The general's proclamations after the capture: liberty to the peoples, war on the palaces, levies on nobility and clergy. Printed in German and French, written for the people of Mainz, in the name of the Republic.",
+   "quelle": "Zeitgenössische Einblattdrucke 1792 (Bayerische Staatsbibliothek, zu sichten); Abdrucke bei K. Klein, Georg Forster in Mainz (1863)."
+  },
+  {
+   "id": "forster1792",
+   "side": "klub",
+   "zk": "Forster 1792",
+   "kurz": "Forster im Klub: die Reden vom November 1792",
+   "kurz_en": "Forster in the club: the speeches of November 1792",
+   "warum": "Der Weltreisende und Universitätsbibliothekar tritt dem Klub bei und spricht über das Verhältnis der Mainzer zu den Franken: warum man frei sein soll, und warum mit Frankreich. Die tragende Stimme des Apparats, in ihrem ersten Auftritt.",
+   "warum_en": "The circumnavigator and university librarian joins the club and speaks on the relation of the people of Mainz to the French: why they should be free, and why with France. The apparatus's leading voice, in its first appearance.",
+   "quelle": "G. Forster, Sämmtliche Schriften, hg. von seiner Tochter und G. G. Gervinus (Leipzig 1843), Band zu prüfen; Erstdrucke Mainz 1792."
+  },
+  {
+   "id": "eid",
+   "side": "klub",
+   "zk": "Wahl und Eid",
+   "kurz": "Wahl und Eid (Februar 1793)",
+   "kurz_en": "Election and oath (February 1793)",
+   "warum": "Die Kommissare des Pariser Nationalkonvents schreiben Wahlen aus: wählen darf, wer der Freiheit und Gleichheit Treue schwört und dem Kurfürsten entsagt. Die Eidformel, die Wahlordnung und die Berichte über Gemeinden, die den Eid verweigerten.",
+   "warum_en": "The commissioners of the National Convention in Paris call elections: whoever swears loyalty to liberty and equality and renounces the Elector may vote. The oath, the electoral rules and the reports of communities that refused it.",
+   "quelle": "Drucke 1793 (zu suchen); Abdrucke bei Klein (1863) und F. X. Remling, Die Rheinpfalz in der Revolutionszeit von 1792 bis 1798 (Speyer 1865–1866)."
+  },
+  {
+   "id": "konvent",
+   "side": "klub",
+   "zk": "Konvent",
+   "kurz": "Der Rheinisch-Deutsche Nationalkonvent (17.–21. März 1793)",
+   "kurz_en": "The Rhenish-German National Convention (17–21 March 1793)",
+   "warum": "Im Deutschhaus, dem heutigen Landtag von Rheinland-Pfalz, erklärt der Konvent das Land von Landau bis Bingen für frei und unabhängig, sagt sich von Kaiser und Reich los und beschließt drei Tage später, den Anschluss an Frankreich zu erbitten.",
+   "warum_en": "In the Deutschhaus, today the seat of the Landtag of Rhineland-Palatinate, the Convention declares the land from Landau to Bingen free and independent, renounces Emperor and Empire, and three days later resolves to ask for union with France.",
+   "quelle": "Dekrete des Konvents, Drucke Mainz 1793 (zu suchen); Abdrucke bei Klein (1863) und Remling (1865–1866)."
+  },
+  {
+   "id": "darstellung",
+   "side": "klub",
+   "zk": "Darstellung",
+   "kurz": "Forster: Darstellung der Revolution in Mainz (1793)",
+   "kurz_en": "Forster: Account of the Revolution in Mainz (1793)",
+   "warum": "In Paris, abgeschnitten von der belagerten Stadt, beginnt Forster eine Darstellung dessen, was in Mainz geschehen war, und bricht sie ab. Ein Rechenschaftsbericht und eine Verteidigung, geschrieben, als die Stadt noch nicht gefallen war.",
+   "warum_en": "In Paris, cut off from the besieged city, Forster begins an account of what had happened in Mainz, and leaves it unfinished. A report and a defence, written while the city had not yet fallen.",
+   "quelle": "G. Forster, Sämmtliche Schriften (1843), Band zu prüfen."
+  },
+  {
+   "id": "gegenschrift",
+   "side": "reich",
+   "zk": "Gegenschrift",
+   "kurz": "Gegenstimmen aus der Stadt (1793)",
+   "kurz_en": "Voices against, from the city (1793)",
+   "warum": "Was die Mainzer sagten, die nicht schworen: Proteste der Zünfte, Schriften gegen die Klubisten, und die Flugschrift „Mainz im Genusse der … Freiheit und Gleichheit“, nach ihrem Titel eine Gegenschrift.",
+   "warum_en": "What the people of Mainz said who did not swear: protests of the guilds, pamphlets against the Clubists, and the pamphlet ‘Mainz im Genusse der … Freiheit und Gleichheit’, by its title a counter-pamphlet.",
+   "quelle": "Flugschrift 1793 (Bayerische Staatsbibliothek, bsb11779263, Charakter zu prüfen); weitere Drucke zu sichten."
+  },
+  {
+   "id": "belagerung",
+   "side": "zeugen",
+   "zk": "Belagerung",
+   "kurz": "Tagebücher der Belagerung (April–Juli 1793)",
+   "kurz_en": "Diaries of the siege (April–July 1793)",
+   "warum": "Die Belagerten zählen Kugeln, Brände und Brotpreise: zwei Tagebücher und eine Beschreibung der Festung, gedruckt 1793, als alles noch frisch war, von Mainzern, die in der Stadt blieben.",
+   "warum_en": "The besieged count cannonballs, fires and the price of bread: two diaries and a description of the fortress, printed in 1793 while everything was still fresh, by people of Mainz who stayed in the city.",
+   "quelle": "„Mein Tagebuch der Belagerung von Mainz“ (1793, bsb11252758); „Die Belagerung der Stadt Mainz …“ (1793, bsb11694602); Gymnich, Beschreibung der Vestung Mainz (1793, bsb11087309)."
+  },
+  {
+   "id": "goethe",
+   "side": "zeugen",
+   "zk": "Goethe",
+   "kurz": "Goethe: Belagerung von Mainz (1793/1822)",
+   "kurz_en": "Goethe: The Siege of Mainz (1793/1822)",
+   "warum": "Goethe begleitet den Herzog von Weimar ins Lager der Belagerer, sieht die Stadt brennen und nach der Kapitulation die Klubisten abziehen, und schreibt es dreißig Jahre später auf. Deutsch, mit der gemeinfreien englischen Übersetzung von 1882.",
+   "warum_en": "Goethe accompanies the Duke of Weimar to the besiegers' camp, watches the city burn and, after the capitulation, the Clubists leaving, and writes it down thirty years later. German, with the public-domain English translation of 1882.",
+   "quelle": "J. W. von Goethe, Belagerung von Mainz (1822); engl. in Goethe, Miscellaneous Travels (London: Bell, 1882)."
+  },
+  {
+   "id": "caroline",
+   "side": "zeugen",
+   "zk": "Caroline",
+   "kurz": "Caroline Böhmer: Briefe aus Mainz (1792–1793)",
+   "kurz_en": "Caroline Böhmer: letters from Mainz (1792–1793)",
+   "warum": "Die junge Witwe lebt im Kreis der Forsters, schreibt über Klub und Besatzung mit Witz und Sympathie, flieht im März 1793 und wird von preußischen Truppen verhaftet. Eine Stimme aus der Stadt, die nicht im Konvent saß.",
+   "warum_en": "The young widow lives in the Forsters' circle, writes about club and occupation with wit and sympathy, flees in March 1793 and is arrested by Prussian troops. A voice from the city that had no seat in the Convention.",
+   "quelle": "Caroline. Briefe an ihre Geschwister, ihre Tochter Auguste, die Familie Gotter, F. L. W. Meyer, A. W. und Fr. Schlegel …, hg. von G. Waitz (Leipzig 1871)."
+  },
+  {
+   "id": "nachleben",
+   "side": "rezeption",
+   "zk": "Nachleben",
+   "kurz": "Klubisten im 19. Jahrhundert: König und Klein",
+   "kurz_en": "Clubists in the nineteenth century: König and Klein",
+   "warum": "Wie das 19. Jahrhundert die Mainzer Republik las: Heinrich Königs Roman „Die Clubbisten in Mainz“ (1847) im Vormärz, Karl Kleins Darstellung „Georg Forster in Mainz“ (1863) mit den Akten im Anhang.",
+   "warum_en": "How the nineteenth century read the Mainz Republic: Heinrich König's novel ‘Die Clubbisten in Mainz’ (1847) on the eve of 1848, Karl Klein's ‘Georg Forster in Mainz’ (1863) with documents in its appendix.",
+   "quelle": "H. König, Die Clubbisten in Mainz (Leipzig 1847); K. Klein, Georg Forster in Mainz 1788 bis 1793 (Gotha 1863)."
+  }
+ ],
+ "missing": [
+  {
+   "id": "scheel",
+   "side": "klub",
+   "zk": "Scheel",
+   "kurz": "Die Protokolle von Klub und Konvent (Scheel)",
+   "kurz_en": "The minutes of club and Convention (Scheel)",
+   "warum": "Die vollständige moderne Edition der Protokolle und Akten, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), ist urheberrechtlich geschützt und wird nicht benutzt. Was sie enthält, zeigt der Apparat aus den Drucken von 1793 und aus Klein (1863), oder nennt es als Lücke.",
+   "warum_en": "The complete modern edition of the minutes and records, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), is protected by copyright and is not used. What it contains, the apparatus shows from the prints of 1793 and from Klein (1863), or names as a gap.",
+   "quelle": "H. Scheel (Hg.), Die Mainzer Republik, 3 Bde. (Berlin 1975–1989)."
+  },
+  {
+   "id": "hansen",
+   "side": "franzosen",
+   "zk": "Hansen",
+   "kurz": "Hansens Quellen zur Geschichte des Rheinlandes",
+   "kurz_en": "Hansen's sources for the history of the Rhineland",
+   "warum": "Joseph Hansens Quellensammlung (1931–1938) ist in Deutschland seit 2014 frei, siebzig Jahre nach dem Tod des Herausgebers, in den Vereinigten Staaten aber erst Band für Band ab 2027. Weil der Apparat in den Vereinigten Staaten betrieben wird, wartet er.",
+   "warum_en": "Joseph Hansen's collection (1931–1938) has been free in Germany since 2014, seventy years after the editor's death, but in the United States only volume by volume from 2027. Because the apparatus is run from the United States, it waits.",
+   "quelle": "J. Hansen (Hg.), Quellen zur Geschichte des Rheinlandes im Zeitalter der Französischen Revolution 1780–1801, 4 Bde. (Bonn 1931–1938)."
+  }
+ ]
+}

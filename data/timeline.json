@@ -1,0 +1,114 @@
+{
+ "lede": "Von der Einnahme der Stadt bis zu Forsters Tod. Die Stationen folgen vorerst modernen Darstellungen; mit jedem Modul werden sie an den Quellen geprüft und verweisen dann in die Texte.",
+ "lede_en": "From the taking of the city to Forster's death. For now the stations follow modern accounts; with each module they are checked against the sources and then point into the texts.",
+ "stations": [
+  {
+   "d": "21. Oktober 1792",
+   "d_en": "21 October 1792",
+   "side": "franzosen",
+   "titel": "Custine in Mainz",
+   "titel_en": "Custine in Mainz",
+   "text": "Die Revolutionsarmee unter General Custine nimmt die kurfürstliche Festung fast kampflos; der Kurfürst ist geflohen. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The revolutionary army under General Custine takes the Elector's fortress almost without a fight; the Elector has fled. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "23. Oktober 1792",
+   "d_en": "23 October 1792",
+   "side": "klub",
+   "titel": "Der Klub",
+   "titel_en": "The club",
+   "text": "Zwanzig Mainzer gründen die Gesellschaft der Freunde der Freiheit und Gleichheit, den Jakobinerklub. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "November 1792",
+   "d_en": "November 1792",
+   "side": "klub",
+   "titel": "Forster spricht",
+   "titel_en": "Forster speaks",
+   "text": "Georg Forster tritt dem Klub bei und wird seine bekannteste Stimme. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Georg Forster joins the club and becomes its best-known voice. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "15. Dezember 1792",
+   "d_en": "15 December 1792",
+   "side": "franzosen",
+   "titel": "Das Dekret von Paris",
+   "titel_en": "The Paris decree",
+   "text": "Der Nationalkonvent in Paris bestimmt, wie in den besetzten Gebieten die alte Ordnung abgeschafft und neue Verwaltungen gewählt werden sollen. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The National Convention in Paris determines how the old order is to be abolished in the occupied territories and new administrations elected. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "24. Februar 1793",
+   "d_en": "24 February 1793",
+   "side": "klub",
+   "titel": "Wahl und Eid",
+   "titel_en": "Election and oath",
+   "text": "Wahlen in Mainz und den Gemeinden der Umgebung; wählen darf, wer schwört. Viele verweigern den Eid. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Elections in Mainz and the surrounding communities; whoever swears may vote. Many refuse the oath. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "17.–18. März 1793",
+   "d_en": "17–18 March 1793",
+   "side": "klub",
+   "titel": "Der Konvent im Deutschhaus",
+   "titel_en": "The Convention in the Deutschhaus",
+   "text": "Der Rheinisch-Deutsche Nationalkonvent tritt zusammen, Andreas Joseph Hofmann als Präsident, Forster als Vizepräsident, und erklärt das Land von Landau bis Bingen für frei. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The Rhenish-German National Convention meets, with Andreas Joseph Hofmann as president and Forster as vice-president, and declares the land from Landau to Bingen free. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "21. März 1793",
+   "d_en": "21 March 1793",
+   "side": "klub",
+   "titel": "Der Anschluss",
+   "titel_en": "Union",
+   "text": "Der Konvent beschließt, den Anschluss an Frankreich zu erbitten; Forster reist mit Adam Lux nach Paris, um ihn zu überbringen. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The Convention resolves to ask for union with France; Forster travels to Paris with Adam Lux to deliver the request. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "Ende März 1793",
+   "d_en": "Late March 1793",
+   "side": "zeugen",
+   "titel": "Caroline flieht",
+   "titel_en": "Caroline flees",
+   "text": "Caroline Böhmer verlässt Mainz, wird auf der Flucht von preußischen Truppen verhaftet und auf die Festung Königstein gebracht. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Caroline Böhmer leaves Mainz, is arrested in flight by Prussian troops and taken to the fortress of Königstein. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "April 1793",
+   "d_en": "April 1793",
+   "side": "reich",
+   "titel": "Die Einschließung",
+   "titel_en": "The investment",
+   "text": "Preußische, österreichische und Reichstruppen schließen die Stadt ein. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Prussian, Austrian and Imperial troops close round the city. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "Juni–Juli 1793",
+   "d_en": "June–July 1793",
+   "side": "zeugen",
+   "titel": "Die Beschießung",
+   "titel_en": "The bombardment",
+   "text": "Die Belagerer beschießen die Stadt; der Dom brennt. Goethe sieht es aus dem Lager. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The besiegers bombard the city; the cathedral burns. Goethe watches from the camp. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "23. Juli 1793",
+   "d_en": "23 July 1793",
+   "side": "reich",
+   "titel": "Die Kapitulation",
+   "titel_en": "The capitulation",
+   "text": "Die französische Besatzung kapituliert und zieht mit Waffen ab; die zurückgebliebenen Klubisten sind der Rache der Stadt und der Haft ausgeliefert. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "The French garrison capitulates and marches out under arms; the Clubists left behind are exposed to the city's revenge and to prison. (After modern accounts; module planned.)"
+  },
+  {
+   "d": "10. Januar 1794",
+   "d_en": "10 January 1794",
+   "side": "klub",
+   "titel": "Forster stirbt",
+   "titel_en": "Forster dies",
+   "text": "Georg Forster stirbt in Paris, ohne Mainz wiedergesehen zu haben. (Nach modernen Darstellungen; Modul geplant.)",
+   "text_en": "Georg Forster dies in Paris without having seen Mainz again. (After modern accounts; module planned.)"
+  }
+ ]
+}
