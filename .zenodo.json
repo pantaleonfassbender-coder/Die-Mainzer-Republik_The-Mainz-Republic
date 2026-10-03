@@ -1,0 +1,35 @@
+{
+  "upload_type": "dataset",
+  "title": "Die Mainzer Republik – The Mainz Republic. Klub, Konvent und Belagerung 1792–1793. Ein zweisprachiger Quellenapparat",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein zweisprachiger digitaler Quellenapparat zur Mainzer Republik 1792&ndash;1793: Was bleibt von einer Republik, die vier Monate dauerte? These, an den Texten zu prüfen: Unter französischer Besatzung gründeten Mainzer einen Klub, wählten unter Eid einen Konvent, der am 18. März 1793 im Deutschhaus das Land von Landau bis Bingen für frei erklärte und drei Tage später den Anschluss an Frankreich erbat, und verloren die Stadt am 23. Juli 1793 an die Belagerer. Georg Forster ist die Stimme, die durch alle Teile geht.</p><p>Stufe 1: zehn Module mit 154 Einheiten, deutsche Originale neben einer englischen Übersetzung: Custine vor Mainz, Aufforderung und Übergabe im Oktober 1792; Forsters Rede &bdquo;Ueber das Verhältniß der Mainzer gegen die Franken&ldquo; vom November 1792, vollständig, mit dem roten und dem schwarzen Buch; Wahl und Eid im Februar 1793; der Konvent, Freistaat und Anschluss, März 1793 (alle mit den Beilagen aus [Anton Hoffmann], <em>Darstellung der Mainzer Revolution</em>, 1793&ndash;1794); die Belagerung im Tagebuch des Gefangenen Schaber (1793); Goethes <em>Belagerung von Maynz</em> nach der Erstausgabe 1822, englisch in der gemeinfreien Übersetzung von 1884; Caroline Böhmers Briefe aus Mainz und aus der Haft (Waitz 1871); die Gegenstimme der gemäßigten Bürger, <em>Mainz im Genusse der Freiheit und Gleichheit</em> (1793); Forsters unvollendete <em>Darstellung der Revolution in Mainz</em> (1792); das Nachleben vom Frankfurter &bdquo;Namensverzeichniß&ldquo; der Klubisten (1793) über Heinrich Koenigs Roman (1847) bis zu Karl Kleins Anklage (1863).</p><p>Jeder Auszug ist am Seitenbild eines gemeinfreien Drucks gelesen; die großen modernen Editionen (Scheel 1975&ndash;1989; Hansen 1931&ndash;1938) werden nicht benutzt. Die Anmerkungen trennen, was die Quellen sagen, von dem, was nur die neuere Literatur weiß. Mit Zeitleiste (22 Stationen), 24 Vergleichen, 24 gemeinfreien Bildtafeln und einer Liste der geprüften und nicht aufgenommenen Quellen. Die Oberfläche lässt sich zwischen Deutsch und Englisch umschalten. Begleitspiel: <em>Der Freiheitsbaum &ndash; The Liberty Tree</em>.</p><p><em>English:</em> A bilingual source apparatus on the Mainz Republic, 1792&ndash;1793, often called the first republic on German soil to arise from elections, founded under French occupation and under oath: ten modules, 154 units, German originals beside English translations, every excerpt read against the page images of a public-domain print (Hoffmann's documents of 1793&ndash;94, Forster's speech and unfinished account, Schaber's siege diary, Goethe's <em>Siege of Mainz</em>, Caroline Böhmer's letters, a moderate counter-pamphlet, and the afterlife from 1793 to 1863); timeline, 24 paired readings, 24 public-domain plates, and a list of sources examined and not included.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übersetzungen CC0 1.0 &mdash; siehe LICENSES.md. Live: https://die-mainzer-republik.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Mainzer Republik",
+    "Mainz Republic",
+    "Mainzer Jakobiner",
+    "Mainz Jacobins",
+    "Rheinisch-Deutscher Nationalkonvent",
+    "Georg Forster",
+    "Caroline Schlegel-Schelling",
+    "Johann Wolfgang von Goethe",
+    "Belagerung von Mainz 1793",
+    "Französische Revolution",
+    "French Revolution",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://die-mainzer-republik.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

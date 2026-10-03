@@ -109,8 +109,8 @@
    "zk": "Scheel",
    "kurz": "Die Protokolle von Klub und Konvent (Scheel)",
    "kurz_en": "The minutes of club and Convention (Scheel)",
-   "warum": "Die vollständige moderne Edition der Protokolle und Akten, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), ist urheberrechtlich geschützt und wird nicht benutzt. Was sie enthält, zeigt der Apparat aus den Drucken von 1793 und aus Klein (1863), oder nennt es als Lücke.",
-   "warum_en": "The complete modern edition of the minutes and records, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), is protected by copyright and is not used. What it contains, the apparatus shows from the prints of 1793 and from Klein (1863), or names as a gap.",
+   "warum": "Die vollständige moderne Edition der Protokolle und Akten, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), ist urheberrechtlich geschützt und wird nicht benutzt. Was sie enthält, zeigt der Apparat, soweit möglich, aus den Drucken von 1793, oder nennt es als Lücke.",
+   "warum_en": "The complete modern edition of the minutes and records, Heinrich Scheel, Die Mainzer Republik I–III (Berlin 1975–1989), is protected by copyright and is not used. What it contains, the apparatus shows, as far as possible, from the prints of 1793, or names as a gap.",
    "quelle": "H. Scheel (Hg.), Die Mainzer Republik, 3 Bde. (Berlin 1975–1989)."
   },
   {
@@ -122,6 +122,46 @@
    "warum": "Joseph Hansens Quellensammlung (1931–1938) ist in Deutschland seit 2014 frei, siebzig Jahre nach dem Tod des Herausgebers, in den Vereinigten Staaten aber erst Band für Band ab 2027. Weil der Apparat in den Vereinigten Staaten betrieben wird, wartet er.",
    "warum_en": "Joseph Hansen's collection (1931–1938) has been free in Germany since 2014, seventy years after the editor's death, but in the United States only volume by volume from 2027. Because the apparatus is run from the United States, it waits.",
    "quelle": "J. Hansen (Hg.), Quellen zur Geschichte des Rheinlandes im Zeitalter der Französischen Revolution 1780–1801, 4 Bde. (Bonn 1931–1938)."
+  },
+  {
+   "id": "hoffmann_rest",
+   "side": "reich",
+   "zk": "Hoffmann",
+   "kurz": "Hoffmanns übrige Hefte (5–8 und 12)",
+   "kurz_en": "Hoffmann's remaining issues (5–8 and 12)",
+   "warum": "Stufe 1 zieht Hoffmanns „Darstellung der Mainzer Revolution“ für Oktober/November 1792 (Heft 1–4) und Februar/März 1793 (Heft 9–11) aus. Die Hefte 5–8 über die Wochen zwischen Forsters Rede und dem Eidbefehl, darunter das Pariser Dekret vom 15. Dezember 1792, und Heft 12 sind als Digitalisate vorhanden, aber nicht ausgezogen; die Zeitleiste nennt den Dezember nach modernen Darstellungen.",
+   "warum_en": "Stage 1 draws on Hoffmann's 'Account of the Mainz Revolution' for October/November 1792 (issues 1–4) and February/March 1793 (issues 9–11). Issues 5–8 on the weeks between Forster's speech and the order to swear the oath, including the Paris decree of 15 December 1792, and issue 12 are available as digitized copies but are not excerpted; the timeline gives December after modern accounts.",
+   "quelle": "[A. Hoffmann], Darstellung der Mainzer Revolution, Heft 5–8 und 12 (1793–1794); Bayerische Staatsbibliothek."
+  },
+  {
+   "id": "belagerung_drucke",
+   "side": "zeugen",
+   "zk": "Drucke",
+   "kurz": "Zwei weitere Drucke von 1793",
+   "kurz_en": "Two further prints of 1793",
+   "warum": "Die anonyme „Belagerung der Stadt Mainz durch die Franzosen im Jahr 1792 und ihre Wiedereroberung durch die teutschen Truppen im Jahre 1793“ und des Freiherrn von Gymnich „Beschreibung der Vestung Mainz“ über die Übergabe vom Oktober 1792, mit Vorrede und Anmerkungen eines Herausgebers. Stufe 1 nimmt für die Übergabe Hoffmanns Beilagen, darunter Gymnichs Brief an Custine (Custine [7]), für die Belagerung Schaber aus der Stadt und Goethe aus dem Lager; die beiden Drucke sind nicht ausgezogen.",
+   "warum_en": "The anonymous 'Siege of the City of Mainz by the French in the Year 1792 and its Recapture by the German Troops in the Year 1793' and Baron von Gymnich's 'Description of the Fortress of Mainz' on the surrender of October 1792, with a preface and notes by an editor. For the surrender Stage 1 takes Hoffmann's documents, among them Gymnich's letter to Custine (Custine [7]); for the siege, Schaber from inside the city and Goethe from the camp; the two prints are not excerpted.",
+   "quelle": "Bayerische Staatsbibliothek, bsb11694602 und bsb11087309 (beide 1793)."
+  },
+  {
+   "id": "klein_akten",
+   "side": "rezeption",
+   "zk": "Klein",
+   "kurz": "Kleins Akten und Nachträge (1863)",
+   "kurz_en": "Klein's documents and supplements (1863)",
+   "warum": "Karl Klein druckt im Hauptteil seines Buches Akten aus Forsters Mainzer Zeit und Nachträge zu dessen Werken ab. Stufe 1 bringt nur Vorwort und Einleitung (Nachleben [9]–[12]); die Akten sind gemeinfrei und bleiben für eine spätere Stufe, mit Rücksicht darauf, dass Klein sie als Anklage auswählt.",
+   "warum_en": "In the main part of his book Karl Klein prints documents from Forster's Mainz period and supplements to his works. Stage 1 gives only the preface and introduction (Nachleben [9]–[12]); the documents are in the public domain and remain for a later stage, bearing in mind that Klein selects them as an indictment.",
+   "quelle": "K. Klein, Georg Forster in Mainz 1788 bis 1793 (Gotha 1863); Internet Archive, bub_gb_2_o5AAAAcAAJ."
+  },
+  {
+   "id": "koenig_rest",
+   "side": "rezeption",
+   "zk": "König",
+   "kurz": "Königs Roman, Teil 2 und 3",
+   "kurz_en": "König's novel, parts 2 and 3",
+   "warum": "Von Heinrich Koenigs „Die Clubisten in Mainz“ (1847) stehen zwei Szenen aus dem ersten Teil im Apparat, der vor der Besetzung spielt. Die Teile über Klub, Konvent und Belagerung sind nicht ausgezogen; ein Roman ist keine Quelle für die Ereignisse, nur für ihr Bild im Vormärz.",
+   "warum_en": "Of Heinrich Koenig's 'The Clubists in Mainz' (1847) the apparatus has two scenes from the first part, which is set before the occupation. The parts on the club, the Convention and the siege are not excerpted; a novel is no source for the events, only for their image before 1848.",
+   "quelle": "H. Koenig, Die Clubisten in Mainz. Ein Roman, 3 Theile (Leipzig 1847)."
   }
  ]
 }

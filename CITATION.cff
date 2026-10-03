@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Die Mainzer Republik – The Mainz Republic. Klub, Konvent und Belagerung 1792–1793. Ein zweisprachiger Quellenapparat"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle. / If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Die-Mainzer-Republik_The-Mainz-Republic"
+url: "https://die-mainzer-republik.netlify.app/"
+abstract: >-
+  Ein zweisprachiger digitaler Quellenapparat zur Mainzer Republik
+  1792–1793: zehn Module mit 154 Einheiten, deutsche Originale neben einer
+  englischen Übersetzung, jeder Auszug am Seitenbild eines gemeinfreien
+  Drucks gelesen (Hoffmanns Darstellung der Mainzer Revolution 1793–94 mit
+  den Beilagen, Forsters Rede vom November 1792 und seine Darstellung der
+  Revolution in Mainz, Schabers Tagebuch der Belagerung, Goethes Belagerung
+  von Maynz, Caroline Böhmers Briefe, eine gemäßigte Gegenschrift, das
+  Nachleben 1793–1863). Mit Zeitleiste, 24 Vergleichen, 24 gemeinfreien
+  Bildtafeln und einer Liste der geprüften und nicht aufgenommenen Quellen.
+  Begleitspiel: Der Freiheitsbaum – The Liberty Tree.
+keywords:
+  - Mainzer Republik
+  - Mainz Republic
+  - Mainzer Jakobiner
+  - Rheinisch-Deutscher Nationalkonvent
+  - Georg Forster
+  - Französische Revolution
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-03
