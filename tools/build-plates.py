@@ -22,6 +22,10 @@ SOURCES = {
     "erthal": C + "d/d3/Portrait_of_Frederick_Charles_Joseph%2C_Baron_von_Erthal%2C_Archbishop%2C_Elector_of_Mainz_%281719-_1802%29_%28by_Heinrich_Friedrich_F%C3%BCger%29.jpg/1920px-Portrait_of_Frederick_Charles_Joseph%2C_Baron_von_Erthal%2C_Archbishop%2C_Elector_of_Mainz_%281719-_1802%29_%28by_Heinrich_Friedrich_F%C3%BCger%29.jpg",
     "festung": C + "3/30/Kaart_van_beleg_van_Mainz_door_de_Duitse_legers%2C_1793_Plan_van_het_Beleg_der_Stad_en_Vesting_Mentz%2C_door_de_Vereenigde_Duitsche_Mogendheden_%28titel_op_object%29%2C_RP-P-OB-86.290.jpg/1920px-thumbnail.jpg",
     "beck1862": C + "e/e2/The_French_in_Mainz%2C_1792_%28A._Beck%29.jpg/1920px-The_French_in_Mainz%2C_1792_%28A._Beck%29.jpg",
+    # Modul „Forster im Klub“
+    "forster": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Georg_Forster-larger.jpg",
+    "umzug1792": "https://upload.wikimedia.org/wikipedia/commons/5/57/Freiheitsumzug-Mainz-1792.jpg",
+    "rede1843": "https://archive.org/download/smmtlicheschri06forsuoft/page/n424_w1800.jpg",
 }
 
 

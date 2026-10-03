@@ -9,19 +9,19 @@
    "kurz_en": "Custine before Mainz: summons and surrender (October 1792)",
    "warum": "Vierzehn Tage, neun Dokumente: der Aufruf der Statthalterschaft, Custines Drohbriefe an Gouverneur und Stadtrat, Gymnichs Angebot, die Weigerung der kaiserlichen Offiziere, die Kapitulation von Marienborn, und Custine im Rathaus, der den Mainzern die freie Wahl ihrer Verfassung verspricht. Nach Anton Hoffmanns Darstellung der Mainzer Revolution (1793), am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "A fortnight, nine documents: the Lieutenancy's appeal, Custine's threatening letters to the governor and the city council, Gymnich's offer, the refusal of the Imperial officers, the capitulation of Marienborn, and Custine in the town hall promising the people of Mainz a free choice of their constitution. From Anton Hoffmann's Darstellung der Mainzer Revolution (1793), read against the page images, with English translation."
+  },
+  {
+   "id": "forster1792",
+   "datei": "forster1792",
+   "side": "klub",
+   "zk": "Forster",
+   "kurz": "Forster im Klub: die Rede vom November 1792",
+   "kurz_en": "Forster in the club: the speech of November 1792",
+   "warum": "Forsters Rede „Ueber das Verhältniß der Mainzer gegen die Franken“ vollständig: Die Franken sind Brüder, jetzt ist der Augenblick, eine gemäßigte Verfassung ist ein „Mittelding“, und wer sich nicht für die Freiheit erklärt, bleibt Eroberter. Dazu der Gegner Anton Hoffmann über Forsters Eintritt, Böhmers rotes und schwarzes Buch und die Rede selbst. Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "Forster's speech 'On the relation of the people of Mainz to the Franks' in full: the Franks are brothers, the moment is now, a moderate constitution is a 'middle thing', and whoever does not declare for freedom remains conquered. With the opponent Anton Hoffmann on Forster's joining, Böhmer's red and black books and the speech itself. Read against the page images, with English translation."
   }
  ],
  "planned": [
-  {
-   "id": "forster1792",
-   "side": "klub",
-   "zk": "Forster 1792",
-   "kurz": "Forster im Klub: die Reden vom November 1792",
-   "kurz_en": "Forster in the club: the speeches of November 1792",
-   "warum": "Der Weltreisende und Universitätsbibliothekar tritt dem Klub bei und spricht über das Verhältnis der Mainzer zu den Franken: warum man frei sein soll, und warum mit Frankreich. Die tragende Stimme des Apparats, in ihrem ersten Auftritt.",
-   "warum_en": "The circumnavigator and university librarian joins the club and speaks on the relation of the people of Mainz to the French: why they should be free, and why with France. The apparatus's leading voice, in its first appearance.",
-   "quelle": "G. Forster, Sämmtliche Schriften, hg. von seiner Tochter und G. G. Gervinus (Leipzig 1843), Band zu prüfen; Erstdrucke Mainz 1792."
-  },
   {
    "id": "eid",
    "side": "klub",

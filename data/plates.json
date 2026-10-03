@@ -1,8 +1,8 @@
 {
  "lede": "Was die Zeit selbst zeigt und was spätere Zeiten daraus machten. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, zu denen sie gehören.",
  "lede_en": "What the time itself shows, and what later times made of it. Every plate names its source; the captions point to the passages they belong to.",
- "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862). Für die Site verkleinert.",
- "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862). Reduced in size for the site.",
+ "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862); Johann Heinrich Wilhelm Tischbein, Bildnis Georg Forsters (um 1785); der Zug zum ersten Mainzer Freiheitsbaum (Kupferstich, 1792). Dazu eine Seite aus Forsters Sämmtlichen Schriften (1843) aus dem Internet Archive. Für die Site verkleinert.",
+ "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862); Johann Heinrich Wilhelm Tischbein, portrait of Georg Forster (c. 1785); the procession to the first liberty tree in Mainz (engraving, 1792). With a page of Forster's collected writings (1843) from the Internet Archive. Reduced in size for the site.",
  "plates": [
   {
    "id": "erthal",
@@ -43,6 +43,36 @@
    "caption_en": "'The French in Mainz, 1792': cheering townspeople, hats in the air, greet the officers riding in. August Beck's wood engraving appeared seventy years later in a popular 'German History in Pictures' and shows what the nineteenth century imagined. Hoffmann, who was there, tells the same day differently: most citizens 'displeased, indeed inconsolable' (Custine [15]).",
    "source": "August Beck, Holzstich, in: F. Bülau (Hg.), Die deutsche Geschichte in Bildern, Bd. 3 (Dresden 1862); Wikimedia Commons, gemeinfrei",
    "cite": "#/text/custine/einzug/15"
+  },
+  {
+   "id": "forster",
+   "side": "klub",
+   "titel": "Georg Forster",
+   "titel_en": "Georg Forster",
+   "caption": "Georg Forster um 1785, Bildnis von Johann Heinrich Wilhelm Tischbein, drei Jahre bevor er nach Mainz kam. Als Knabe war er mit Cook um die Welt gesegelt; 1792 trat er dem Klub bei (Forster [1]) und hielt seine Rede über das Verhältnis der Mainzer zu den Franken (Forster [7]).",
+   "caption_en": "Georg Forster around 1785, portrait by Johann Heinrich Wilhelm Tischbein, three years before he came to Mainz. As a boy he had sailed round the world with Cook; in 1792 he joined the club (Forster [1]) and gave his speech on the relation of the people of Mainz to the Franks (Forster [7]).",
+   "source": "Johann Heinrich Wilhelm Tischbein, um 1785; Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/forster1792/aufnahme/1"
+  },
+  {
+   "id": "umzug1792",
+   "side": "klub",
+   "titel": "Der erste Freiheitsbaum",
+   "titel_en": "The first liberty tree",
+   "caption": "Der Zug zur Errichtung des ersten Mainzer Freiheitsbaums am 3. November 1792, zeitgenössischer Kupferstich: Ein Mann trägt den Baum mit der Freiheitsmütze, Trommler und Soldaten gehen mit, Zuschauer stehen an den Fenstern. Zwei Tage später trat Forster dem Klub bei (Forster [1]).",
+   "caption_en": "The procession to set up the first liberty tree in Mainz on 3 November 1792, contemporary engraving: a man carries the tree with the cap of liberty, drummers and soldiers walk along, onlookers stand at the windows. Two days later Forster joined the club (Forster [1]).",
+   "source": "Kupferstich, spätes 18. Jahrhundert; Reproduktion nach F. Dumont u. a. (Hg.), Mainz. Die Geschichte der Stadt (1999); Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/forster1792/aufnahme/1"
+  },
+  {
+   "id": "rede1843",
+   "side": "rezeption",
+   "titel": "Die Rede im Druck",
+   "titel_en": "The speech in print",
+   "caption": "Die erste Seite der Rede in Forsters Sämmtlichen Schriften, herausgegeben 1843 von seiner Tochter Therese und Georg Gottfried Gervinus, fünfzig Jahre nach dem Ende der Mainzer Republik. Die Überschrift datiert die Rede auf den 15. November 1792, Hoffmann auf den 17. (Forster [32]).",
+   "caption_en": "The first page of the speech in Forster's collected writings, edited in 1843 by his daughter Therese and Georg Gottfried Gervinus, fifty years after the end of the Mainz Republic. The heading dates the speech to 15 November 1792, Hoffmann to the 17th (Forster [32]).",
+   "source": "Georg Forster's sämmtliche Schriften, Bd. 6 (Leipzig 1843), S. 413; Internet Archive (University of Toronto), gemeinfrei",
+   "cite": "#/text/forster1792/rede1/7"
   }
  ]
 }

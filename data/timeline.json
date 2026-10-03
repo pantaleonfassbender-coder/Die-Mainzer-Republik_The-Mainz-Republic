@@ -38,13 +38,39 @@
    "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts; module planned.)"
   },
   {
-   "d": "November 1792",
-   "d_en": "November 1792",
+   "d": "3. November 1792",
+   "d_en": "3 November 1792",
+   "side": "klub",
+   "titel": "Der erste Freiheitsbaum",
+   "titel_en": "The first liberty tree",
+   "text": "Ein Zug mit Trommeln richtet in Mainz den ersten Freiheitsbaum auf.",
+   "text_en": "A procession with drums sets up the first liberty tree in Mainz.",
+   "plate": "umzug1792"
+  },
+  {
+   "d": "5. und 15./17. November 1792",
+   "d_en": "5 and 15/17 November 1792",
    "side": "klub",
    "titel": "Forster spricht",
    "titel_en": "Forster speaks",
-   "text": "Georg Forster tritt dem Klub bei und wird seine bekannteste Stimme. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Georg Forster joins the club and becomes its best-known voice. (After modern accounts; module planned.)"
+   "text": "Forster tritt am 5. November dem Klub bei und hält Mitte November seine Rede über das Verhältnis der Mainzer zu den Franken: Jetzt sei der Augenblick, ganz frei zu werden; wer sich nicht für die Freiheit erkläre, bleibe Eroberter. Die Ausgabe von 1843 datiert sie auf den 15., der Gegner Hoffmann auf den 17. November.",
+   "text_en": "Forster joins the club on 5 November and in mid-November gives his speech on the relation of the people of Mainz to the Franks: now is the moment to become wholly free; whoever does not declare for freedom remains conquered. The 1843 edition dates it to the 15th, the opponent Hoffmann to 17 November.",
+   "cite": "#/text/forster1792/rede4/27",
+   "citeLabel": "Forster [27]",
+   "citeLabel_en": "Forster [27]",
+   "plate": "forster"
+  },
+  {
+   "d": "6. November 1792",
+   "d_en": "6 November 1792",
+   "side": "klub",
+   "titel": "Das rote und das schwarze Buch",
+   "titel_en": "The red book and the black book",
+   "text": "Georg Wilhelm Böhmer legt im Klub zwei Bücher aus: ein rotes „Buch des Lebens“ für die republikanische Verfassung und ein schwarzes mit Blechketten für die alte. Wer sich in keines einträgt, soll als schwarz gelten.",
+   "text_en": "Georg Wilhelm Böhmer lays out two books in the club: a red 'Book of Life' for the republican constitution and a black one with tin chains for the old. Whoever signs neither is to count as black.",
+   "cite": "#/text/forster1792/buecher/4",
+   "citeLabel": "Forster [4]",
+   "citeLabel_en": "Forster [4]"
   },
   {
    "d": "15. Dezember 1792",

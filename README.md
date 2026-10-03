@@ -9,8 +9,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 **Stand:** Im Aufbau, zehn Module geplant. Abgedruckt:
 
 - **Custine vor Mainz: Aufforderung und Übergabe (Oktober 1792)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 1 (1793), Beylagen No. 1–9 und Erzählung, mit einer Anmerkung aus Heft 2; am Seitenbild gelesen, mit englischer Übersetzung.
+- **Forster im Klub: die Rede vom November 1792** — Georg Forster, *Ueber das Verhältniß der Mainzer gegen die Franken*, vollständig nach den Sämmtlichen Schriften, Bd. 6 (1843), S. 413–431; dazu Anton Hoffmann über Forsters Eintritt, das rote und das schwarze Buch und die Rede (Heft 3, S. 222–234; Heft 4, S. 256–260); am Seitenbild gelesen, mit englischer Übersetzung.
 
-Geplant sind Forsters Reden und seine *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+Dazu drei Vergleiche (freie Wahl, das Buch, der Redner und sein Gegner). Geplant sind Forsters *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

@@ -1,5 +1,90 @@
 {
- "lede": "Dieselben Tage aus dem Klub, aus dem Lager und aus der Stadt. Die Vergleiche entstehen mit den Modulen.",
- "lede_en": "The same days from the club, from the camp and from the city. The comparisons will be added with the modules.",
- "pairs": []
+ "lede": "Dieselben Fragen aus dem Klub, aus dem Lager und aus der Stadt. Jede Seite stellt die Stellen nebeneinander; jede führt zu ihrem Ort im Text, mit Original und Übersetzung.",
+ "lede_en": "The same questions from the club, from the camp and from the city. Each page sets the passages side by side; each leads to its place in the text, with original and translation.",
+ "pairs": [
+  {
+   "id": "wahl",
+   "titel": "Freie Wahl?",
+   "titel_en": "A free choice?",
+   "frage": "21. Oktober und Mitte November 1792: Was dürfen die Mainzer wählen?",
+   "frage_en": "21 October and mid-November 1792: what may the people of Mainz choose?",
+   "note": "Am Abend der Übergabe verspricht Custine im Rathaus die freie Wahl: alte Verfassung, neue Verfassung oder die französische. Vier Wochen später sagt Forster im Klub, nur eine freie Verfassung bringe den Schutz der Franken; wer Herren wolle, habe sie schon, nämlich die Eroberer. Zwischen beiden Sätzen liegen das rote und das schwarze Buch.",
+   "note_en": "On the evening of the surrender Custine promises a free choice in the town hall: the old constitution, a new one, or the French. Four weeks later Forster says in the club that only a free constitution brings the protection of the Franks; whoever wants masters has them already: the conquerors. Between the two statements lie the red book and the black.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "einzug",
+     "n": [
+      15
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "rede4",
+     "n": [
+      28
+     ]
+    }
+   ]
+  },
+  {
+   "id": "buecher",
+   "titel": "Das Buch",
+   "titel_en": "The book",
+   "frage": "Wer sich nicht einträgt: Schweigen, Nein oder Sklaverei?",
+   "frage_en": "Whoever does not sign: silence, no, or slavery?",
+   "note": "Hoffmann beschreibt, wie Böhmer die Nichtunterzeichner dem schwarzen Buch zurechnete und als „Sklaven“ zu behandeln drohte. Forster verteidigt in seiner Rede genau diesen Satz und ruft am Schluss alle, die noch nicht geschworen haben, an das Buch.",
+   "note_en": "Hoffmann describes how Böhmer counted the non-signers with the black book and threatened to treat them as 'slaves'. Forster defends exactly this sentence in his speech and at the end calls everyone who has not yet sworn to the book.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "buecher",
+     "n": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "rede4",
+     "n": [
+      28,
+      31
+     ]
+    }
+   ]
+  },
+  {
+   "id": "redner",
+   "titel": "Der Redner und sein Gegner",
+   "titel_en": "The speaker and his opponent",
+   "frage": "Was Forster sagte, und was Hoffmann daraus machte.",
+   "frage_en": "What Forster said, and what Hoffmann made of it.",
+   "note": "Hoffmann gibt die Rede fast wörtlich wieder, aber in indirekter Rede und mit seinem Urteil: „Unverschämtheit“. Er schreibt im Frühjahr 1793, als die Franzosen die Niederlande verloren hatten und Forsters Lage Europas widerlegt schien; für den Leser legt er Forsters Dankesworte an den Kurfürsten von 1789 daneben.",
+   "note_en": "Hoffmann renders the speech almost word for word, but in reported speech and with his verdict: 'impudence'. He writes in spring 1793, when the French had lost the Netherlands and Forster's survey of Europe seemed refuted; for the reader he sets beside it Forster's words of thanks to the Elector of 1789.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "rede1",
+     "n": [
+      10
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "bericht",
+     "n": [
+      32
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "aufnahme",
+     "n": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
 }
