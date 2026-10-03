@@ -35,7 +35,8 @@
    "titel": "Der Klub",
    "titel_en": "The club",
    "text": "Zwanzig Mainzer gründen die Gesellschaft der Freunde der Freiheit und Gleichheit, den Jakobinerklub. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts; module planned.)"
+   "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts; module planned.)",
+   "plate": "klubsitzung"
   },
   {
    "d": "3. November 1792",
@@ -59,6 +60,18 @@
    "citeLabel": "Forster [27]",
    "citeLabel_en": "Forster [27]",
    "plate": "forster"
+  },
+  {
+   "d": "11.–17. November 1792",
+   "d_en": "11–17 November 1792",
+   "side": "reich",
+   "titel": "Der Vorschlag der Kaufleute",
+   "titel_en": "The merchants' proposal",
+   "text": "Der Handelsstand verlangt mit 81 gegen 13 Stimmen eine eigene Verfassung mit gewählten Repräsentanten und einem Fürsten, garantiert von Frankreich, Kaiser und Reich. Böhmer droht den Beamten, die sich weiter „kurfürstlich“ unterzeichnen; Forster antwortet den Kaufleuten im Klub.",
+   "text_en": "By 81 votes to 13 the merchant estate demands a constitution of its own with elected representatives and a prince, guaranteed by France, Emperor and Empire. Böhmer threatens the officials who go on signing themselves 'Electoral'; Forster answers the merchants in the club.",
+   "cite": "#/text/gegenschrift/handelsstand/4",
+   "citeLabel": "Gegenschrift [4]",
+   "citeLabel_en": "Gegenschrift [4]"
   },
   {
    "d": "6. November 1792",

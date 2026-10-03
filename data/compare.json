@@ -498,6 +498,70 @@
      ]
     }
    ]
+  },
+  {
+   "id": "mittelding",
+   "titel": "Das Mittelding",
+   "titel_en": "The middle thing",
+   "frage": "November 1792: der Vorschlag der Kaufleute und Forsters Antwort.",
+   "frage_en": "November 1792: the merchants' proposal and Forster's answer.",
+   "note": "Die Kaufleute wollen gewählte Repräsentanten, einen Fürsten unter ihrer Aufsicht, gleiche Steuern, keine Privilegien und eine Garantie durch Frankreich, Kaiser und Reich. Forster nennt das ein „Mittelding“ und ein „Feuillantenprojekt“: Keine dieser Mächte werde es garantieren. Der Verfasser des Vorschlags, Dumont, wurde im Februar 1793 ausgewiesen.",
+   "note_en": "The merchants want elected representatives, a prince under their supervision, equal taxes, no privileges and a guarantee by France, Emperor and Empire. Forster calls it a 'middle thing' and a 'Feuillant project': none of these powers would guarantee it. The author of the proposal, Dumont, was expelled in February 1793.",
+   "voices": [
+    {
+     "text": "gegenschrift",
+     "sec": "handelsstand",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "rede3",
+     "n": [
+      24
+     ]
+    },
+    {
+     "text": "eid",
+     "sec": "ausweisung",
+     "n": [
+      22
+     ]
+    }
+   ]
+  },
+  {
+   "id": "buch_drei",
+   "titel": "Das Buch, dreimal erzählt",
+   "titel_en": "The book, told three times",
+   "frage": "November 1792: wer sich einträgt, wer schweigt, wer bereut.",
+   "frage_en": "November 1792: who signs, who keeps silent, who regrets.",
+   "note": "Hoffmann beschreibt Böhmers zwei Bücher als Falle; die Flugschrift die Menschen, die aus Angst unterschreiben und es im selben Augenblick bereuen; Forster ruft seine Zuhörer, die Namen „in das Buch“ zu schreiben.",
+   "note_en": "Hoffmann describes Böhmer's two books as a trap; the pamphlet the people who sign out of fear and regret it in the same moment; Forster calls on his listeners to write their names 'in the book'.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "buecher",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "gegenschrift",
+     "sec": "buecher",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "forster1792",
+     "sec": "rede4",
+     "n": [
+      31
+     ]
+    }
+   ]
   }
  ]
 }

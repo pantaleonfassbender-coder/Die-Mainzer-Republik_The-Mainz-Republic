@@ -69,6 +69,16 @@
    "kurz_en": "Caroline: letters from Mainz and from custody (October 1792 – June 1793)",
    "warum": "Caroline Böhmer, später Schlegel und Schelling, lebte im Kreis der Forsters und saß in keiner Versammlung. Ihre Briefe erzählen den Herbst der Einnahme mit Witz und Zweifel, den Bauern, der „drey Tage von vieren“ für seine Herren arbeitet, die Flucht im März und die Haft auf der Festung Königstein als Geisel ohne Verhör: „ich bin wahrhaftig nur eine gute Frau, und keine Heldin.“ Am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "Caroline Böhmer, later Schlegel and Schelling, lived in the Forsters' circle and sat in no assembly. Her letters tell of the autumn of the capture with wit and doubt, of the peasant who works 'three days out of four' for his lords, of her flight in March and of custody in the fortress of Königstein as a hostage without a hearing: 'I am truly only a good woman, and no heroine.' Read against the page images, with English translation."
+  },
+  {
+   "id": "gegenschrift",
+   "datei": "gegenschrift",
+   "side": "reich",
+   "zk": "Gegenschrift",
+   "kurz": "Gegenstimmen: „Mainz im Genusse der Freiheit und Gleichheit“ (1793)",
+   "kurz_en": "Voices against: 'Mainz in the Enjoyment of Liberty and Equality' (1793)",
+   "warum": "Eine anonyme Mainzer Flugschrift aus dem Jahr der Belagerung, von gemäßigten Bürgern: Reformen ja, aber nicht durch fremde Waffen. Sie überliefert den Verfassungsvorschlag der Kaufleute (81 gegen 13 Stimmen), gegen den Forster sprach, druckt Böhmers „Warnung“ an die Beamten vollständig ab und erzählt das rote und das schwarze Buch aus der Sicht derer, die unterschreiben mussten. Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "An anonymous Mainz pamphlet from the year of the siege, by moderate citizens: reforms yes, but not by foreign arms. It preserves the merchants' constitutional proposal (81 votes to 13) that Forster spoke against, prints Böhmer's 'Warning' to the officials in full, and tells the red and the black book from the point of view of those who had to sign. Read against the page images, with English translation."
   }
  ],
  "planned": [
@@ -81,16 +91,6 @@
    "warum": "In Paris, abgeschnitten von der belagerten Stadt, beginnt Forster eine Darstellung dessen, was in Mainz geschehen war, und bricht sie ab. Ein Rechenschaftsbericht und eine Verteidigung, geschrieben, als die Stadt noch nicht gefallen war.",
    "warum_en": "In Paris, cut off from the besieged city, Forster begins an account of what had happened in Mainz, and leaves it unfinished. A report and a defence, written while the city had not yet fallen.",
    "quelle": "G. Forster, Sämmtliche Schriften (1843), Band zu prüfen."
-  },
-  {
-   "id": "gegenschrift",
-   "side": "reich",
-   "zk": "Gegenschrift",
-   "kurz": "Gegenstimmen aus der Stadt (1793)",
-   "kurz_en": "Voices against, from the city (1793)",
-   "warum": "Was die Mainzer sagten, die nicht schworen: Proteste der Zünfte, Schriften gegen die Klubisten, und die Flugschrift „Mainz im Genusse der … Freiheit und Gleichheit“, nach ihrem Titel eine Gegenschrift.",
-   "warum_en": "What the people of Mainz said who did not swear: protests of the guilds, pamphlets against the Clubists, and the pamphlet ‘Mainz im Genusse der … Freiheit und Gleichheit’, by its title a counter-pamphlet.",
-   "quelle": "Flugschrift 1793 (Bayerische Staatsbibliothek, bsb11779263, Charakter zu prüfen); weitere Drucke zu sichten."
   },
   {
    "id": "nachleben",

@@ -43,6 +43,9 @@ SOURCES = {
     # Modul „Caroline“
     "caroline": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Caroline_Schlegel%2C_Portr%C3%A4t_von_Johann_Friedrich_August_Tischbein%2C_1798.jpg",
     "koenigstein": C + "f/f7/K%C3%B6nigstein_%28Merian%29.jpg/1920px-K%C3%B6nigstein_%28Merian%29.jpg",
+    # Modul „Gegenstimmen“
+    "klubsitzung": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mainzjakobiner.jpg",
+    "tanz": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jakobiner_beim_Tanz_um_den_Freiheitsbaum.jpg",
 }
 
 ROTATE = {"karte1884": -90}  # sideways in the book
