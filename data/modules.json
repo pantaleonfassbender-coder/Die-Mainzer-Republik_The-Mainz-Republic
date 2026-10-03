@@ -49,6 +49,16 @@
    "kurz_en": "The siege: a diary from prison (February–July 1793)",
    "warum": "Karl Wilhelm Friedrich Schaber, als preußischer Kundschafter gefangen, sah die Belagerung vom Dachboden des Gefängnisses: die Einschließung, Hunger und Preise, fünfhundert Ausgewiesene im Regen zwischen den Linien, die Brände von Liebfrauenkirche und Dom, den 14. Juli der Klubisten und eine Übergabe, die die Soldaten erzwangen. Ein Gegner, der aus der Stadt schreibt. Am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "Karl Wilhelm Friedrich Schaber, captured as a Prussian scout, watched the siege from the loft of his prison: the investment, hunger and prices, five hundred expelled in the rain between the lines, the burning of the Liebfrauenkirche and the cathedral, the Clubists' 14th of July, and a surrender forced by the soldiers. An opponent writing from inside the city. Read against the page images, with English translation."
+  },
+  {
+   "id": "goethe",
+   "datei": "goethe",
+   "side": "zeugen",
+   "zk": "Goethe",
+   "kurz": "Goethe: Belagerung von Maynz (Mai–Juli 1793)",
+   "kurz_en": "Goethe: The Siege of Mainz (May–July 1793)",
+   "warum": "Die Gegenansicht aus dem Lager der Belagerer: der Dombrand unter dem Sternenhimmel, der Auszug der Besatzung zur langsam gespielten Marseillaise, Klubisten auf der Flucht und vor Goethes Quartier ein „Halt!“, nach dem der Satz fällt: „ich will lieber eine Ungerechtigkeit begehen als Unordnung ertragen.“ Deutsch nach der Erstausgabe von 1822, englisch in der gemeinfreien Übersetzung von 1884.",
+   "warum_en": "The opposite view from the besiegers' camp: the cathedral burning under the starry sky, the garrison marching out to a slowly played Marseillaise, Clubists in flight, and before Goethe's quarters a 'Hold!', after which comes the sentence: 'I would rather commit an injustice than suffer disorder.' German from the first edition of 1822, English in the public-domain translation of 1884."
   }
  ],
  "planned": [
@@ -71,16 +81,6 @@
    "warum": "Was die Mainzer sagten, die nicht schworen: Proteste der Zünfte, Schriften gegen die Klubisten, und die Flugschrift „Mainz im Genusse der … Freiheit und Gleichheit“, nach ihrem Titel eine Gegenschrift.",
    "warum_en": "What the people of Mainz said who did not swear: protests of the guilds, pamphlets against the Clubists, and the pamphlet ‘Mainz im Genusse der … Freiheit und Gleichheit’, by its title a counter-pamphlet.",
    "quelle": "Flugschrift 1793 (Bayerische Staatsbibliothek, bsb11779263, Charakter zu prüfen); weitere Drucke zu sichten."
-  },
-  {
-   "id": "goethe",
-   "side": "zeugen",
-   "zk": "Goethe",
-   "kurz": "Goethe: Belagerung von Mainz (1793/1822)",
-   "kurz_en": "Goethe: The Siege of Mainz (1793/1822)",
-   "warum": "Goethe begleitet den Herzog von Weimar ins Lager der Belagerer, sieht in der Nacht zum 29. Juni den Dom brennen und nach der Kapitulation die Klubisten abziehen, und schreibt es dreißig Jahre später auf. Deutsch, mit der gemeinfreien englischen Übersetzung von 1882.",
-   "warum_en": "Goethe accompanies the Duke of Weimar to the besiegers' camp, watches the cathedral burn on the night of 28–29 June and, after the capitulation, the Clubists leaving, and writes it down thirty years later. German, with the public-domain English translation of 1882.",
-   "quelle": "J. W. von Goethe, Belagerung von Mainz (1822); engl. in Goethe, Miscellaneous Travels (London: Bell, 1882)."
   },
   {
    "id": "caroline",

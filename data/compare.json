@@ -352,6 +352,88 @@
      ]
     }
    ]
+  },
+  {
+   "id": "dombrand",
+   "titel": "Die Nacht des Dombrands",
+   "titel_en": "The night the cathedral burned",
+   "frage": "28. Juni 1793: dieselbe Nacht aus dem Gefängnis und von der Schanze.",
+   "frage_en": "28 June 1793: the same night from the prison and from the entrenchment.",
+   "note": "Schaber sitzt in der Stadt im Gefängnis, hört die Granaten die ganze Nacht fallen und gibt das Gerücht weiter, die Franzosen hätten selbst angezündet. Goethe steht mit Freunden auf der Schanze der Belagerer, sieht die Bomben mit den Sternen wetteifern, und zwei Maler machen „Brandstudien“. Erst am Ende fragt er, was es heißt, sich zu retten, indem man die eigene Hauptstadt anzündet.",
+   "note_en": "Schaber sits in the prison in the city, hears the shells falling all night and passes on the rumour that the French set the fires themselves. Goethe stands with friends on the besiegers' entrenchment, watches the bombs vie with the stars, and two painters make 'fire studies'. Only at the end does he ask what it means to save oneself by setting fire to one of one's own chief cities.",
+   "voices": [
+    {
+     "text": "belagerung",
+     "sec": "bombardement",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "goethe",
+     "sec": "lager",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ausgewiesene_goethe",
+   "titel": "Zwischen den Linien",
+   "titel_en": "Between the lines",
+   "frage": "24. Juni 1793: die Ausgewiesenen, von innen und von außen gesehen.",
+   "frage_en": "24 June 1793: the expelled, seen from inside and from outside.",
+   "note": "Schaber erzählt von der Frau, der ein Kind von der Brust geschossen wurde, und von Jägern, die Kinder unter ihren Mänteln in die Stadt zurücktrugen. Goethe nennt beide Seiten unbarmherzig und grausam und schreibt im nächsten Satz über den österreichischen Zapfenstreich.",
+   "note_en": "Schaber tells of the woman whose child was shot from her breast, and of chasseurs who carried children back into the city under their coats. Goethe calls both sides pitiless and cruel and in his next sentence writes about the Austrian tattoo.",
+   "voices": [
+    {
+     "text": "belagerung",
+     "sec": "hunger",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "goethe",
+     "sec": "lager",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rache",
+   "titel": "Rache oder Ordnung",
+   "titel_en": "Revenge or order",
+   "frage": "Juli 1793: Was geschieht mit denen, die geschworen haben?",
+   "frage_en": "July 1793: what happens to those who swore?",
+   "note": "Die Kapitulation schützt die Besatzung; für die Klubisten gilt sie nicht. Schaber jubelt in Versen über die Befreiung. Goethe sieht einen Klubisten auf dem Acker zerschlagen und hält vor seinem Fenster die Menge auf, nicht aus Mitleid, sagt er, sondern weil er lieber eine Ungerechtigkeit begehe als Unordnung ertrage.",
+   "note_en": "The capitulation protects the garrison; it does not hold for the Clubists. Schaber rejoices in verse at the liberation. Goethe sees a Clubist beaten to pulp in a field and holds back the crowd before his window, not out of pity, he says, but because he would rather commit an injustice than suffer disorder.",
+   "voices": [
+    {
+     "text": "belagerung",
+     "sec": "kapitulation",
+     "n": [
+      13
+     ]
+    },
+    {
+     "text": "goethe",
+     "sec": "auszug",
+     "n": [
+      7
+     ]
+    },
+    {
+     "text": "goethe",
+     "sec": "auszug",
+     "n": [
+      10
+     ]
+    }
+   ]
   }
  ]
 }

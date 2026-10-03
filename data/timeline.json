@@ -184,8 +184,8 @@
    "side": "zeugen",
    "titel": "Die Beschießung",
    "titel_en": "The bombardment",
-   "text": "Hunger und Preise steigen; fünfhundert Ausgewiesene liegen eine Nacht zwischen den Linien. Ab dem 25. Juni fallen Granaten: Am 27. brennt die Liebfrauenkirche, in der Nacht zum 29. der Dom. Goethe sieht es aus dem Lager.",
-   "text_en": "Hunger and prices rise; five hundred expelled lie a night between the lines. From 25 June shells fall: on the 27th the Liebfrauenkirche burns, on the night of the 28th the cathedral. Goethe watches from the camp.",
+   "text": "Hunger und Preise steigen; fünfhundert Ausgewiesene liegen eine Nacht zwischen den Linien. Ab dem 25. Juni fallen Granaten: Am 27. brennt die Liebfrauenkirche, in der Nacht zum 29. der Dom. Goethe sieht es von der Schanze vor Marienborn.",
+   "text_en": "Hunger and prices rise; five hundred expelled lie a night between the lines. From 25 June shells fall: on the 27th the Liebfrauenkirche burns, on the night of the 28th the cathedral. Goethe watches from the entrenchment before Marienborn.",
    "cite": "#/text/belagerung/bombardement/8",
    "citeLabel": "Belagerung [8]",
    "citeLabel_en": "Belagerung [8]",
@@ -203,6 +203,19 @@
    "citeLabel": "Belagerung [11]",
    "citeLabel_en": "Belagerung [11]",
    "plate": "schuetzenscheibe"
+  },
+  {
+   "d": "24.–25. Juli 1793",
+   "d_en": "24–25 July 1793",
+   "side": "zeugen",
+   "titel": "Der Auszug",
+   "titel_en": "The march-out",
+   "text": "Die Besatzung zieht zur langsam gespielten Marseillaise ab. Klubisten, die mit ihr fliehen wollen, werden von den ausgewiesenen Mainzern auf der Straße aufgehalten und verprügelt. Goethe hält vor dem Quartier des Herzogs von Weimar die Menge auf: „ich will lieber eine Ungerechtigkeit begehen als Unordnung ertragen.“",
+   "text_en": "The garrison marches out to a slowly played Marseillaise. Clubists trying to flee with it are stopped on the road and beaten by the expelled people of Mainz. Goethe holds back the crowd in front of the Duke of Weimar's quarters: 'I would rather commit an injustice than suffer disorder.'",
+   "cite": "#/text/goethe/auszug/10",
+   "citeLabel": "Goethe [10]",
+   "citeLabel_en": "Goethe [10]",
+   "plate": "goethe"
   },
   {
    "d": "10. Januar 1794",

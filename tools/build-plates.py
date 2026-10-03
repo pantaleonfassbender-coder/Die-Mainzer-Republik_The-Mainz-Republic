@@ -37,7 +37,12 @@ SOURCES = {
     "liebfrauen": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Johann_Caspar_Schneider%2C_Ruin_der_Lieben_Frau-Kirche_in_Maynz_Nach_der_Belagerung_im_Jahre_1793%2C_1793.jpg",
     "notmuenze": C + "5/54/Cinq_sols_si%C3%A8ge_de_Mayence%2C_1793%2C_NM1657.jpg/1920px-Cinq_sols_si%C3%A8ge_de_Mayence%2C_1793%2C_NM1657.jpg",
     "schuetzenscheibe": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kapitulation_von_Mainz_1793.jpg",
+    # Modul „Goethe“
+    "goethe": C + "0/0e/Goethe_%28Stieler_1828%29.jpg/1920px-Goethe_%28Stieler_1828%29.jpg",
+    "karte1884": "https://archive.org/download/miscellaneoustra00goetuoft/page/n261_w2400.jpg",
 }
+
+ROTATE = {"karte1884": -90}  # sideways in the book
 
 
 def fetch(url, tries=4):
@@ -67,7 +72,10 @@ def main(only=None):
     for pid, url in SOURCES.items():
         if only and pid not in only:
             continue
-        save(Image.open(io.BytesIO(fetch(url))), pid)
+        im = Image.open(io.BytesIO(fetch(url)))
+        if pid in ROTATE:
+            im = im.rotate(ROTATE[pid], expand=True)
+        save(im, pid)
         print("ok", pid)
         time.sleep(2)
 
