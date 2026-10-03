@@ -1,5 +1,7 @@
 # Die Mainzer Republik – The Mainz Republic
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23125296.svg)](https://doi.org/10.5281/zenodo.23125296)
+
 Ein zweisprachiger Quellenapparat zur Mainzer Republik 1792–1793: Was bleibt von einer Republik, die vier Monate dauerte? Gemeinfreie Quellen im deutschen Original neben einer englischen Übersetzung, eine Zeitleiste mit Verweisen in die Texte, Vergleiche und Tafeln. Die Oberfläche lässt sich zwischen Deutsch und Englisch umschalten.
 
 *A bilingual documentary apparatus on the Mainz Republic, 1792–1793: what remains of a republic that lasted four months? Public-domain sources in the German original beside an English translation, a timeline pointing into the texts, comparisons and plates. The interface switches between German and English.*
@@ -34,3 +36,9 @@ Lokal: `python -m http.server` im Repository, dann `http://localhost:8000/`.
 ## Lizenzen
 
 Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übersetzungen CC0 1.0. Siehe [LICENSES.md](LICENSES.md).
+
+## Zitieren
+
+Fassbender, Pantaleon. *Die Mainzer Republik – The Mainz Republic. Klub, Konvent und Belagerung 1792–1793. Ein zweisprachiger Quellenapparat.* 2026. https://doi.org/10.5281/zenodo.23125296 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23125297). Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.
+
+*Please cite the apparatus as above (concept DOI for all versions, or the version DOI), and the printed source for any passage you quote.*

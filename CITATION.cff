@@ -28,5 +28,13 @@ keywords:
   - Französische Revolution
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23125296
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23125296
+    description: "Concept-DOI (alle Versionen)"
+  - type: doi
+    value: 10.5281/zenodo.23125297
+    description: "Version 1.0.0"
 version: 1.0.0
 date-released: 2026-10-03
