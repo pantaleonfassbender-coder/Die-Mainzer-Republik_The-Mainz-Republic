@@ -89,20 +89,19 @@
    "kurz_en": "Forster: Account of the Revolution in Mainz (fragment, 1792)",
    "warum": "Forsters unvollendete Geschichte der Mainzer Ereignisse, in Briefen 1792 in Mainz geschrieben: die Übergabe vom Stephansturm aus gesehen, eine Regierung, die ihr eigenes Kapitulationsangebot vergisst, eine Anklage gegen den Kurfürsten, der die Stadt in den Krieg zog und die Bürger zurückließ, und eine Hoffnung, die mitten im Satz abbricht. Am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "Forster's unfinished history of the Mainz events, written in letters in Mainz in 1792: the surrender seen from St Stephen's tower, a government that forgets its own offer of capitulation, an indictment of the Elector who drew the city into the war and left its citizens behind, and a hope that breaks off in mid-sentence. Read against the page images, with English translation."
-  }
- ],
- "planned": [
+  },
   {
    "id": "nachleben",
+   "datei": "nachleben",
    "side": "rezeption",
    "zk": "Nachleben",
-   "kurz": "Klubisten im 19. Jahrhundert: König und Klein",
-   "kurz_en": "Clubists in the nineteenth century: König and Klein",
-   "warum": "Wie das 19. Jahrhundert die Mainzer Republik las: Heinrich Königs Roman „Die Clubbisten in Mainz“ (1847) im Vormärz, Karl Kleins Darstellung „Georg Forster in Mainz“ (1863) mit den Akten im Anhang.",
-   "warum_en": "How the nineteenth century read the Mainz Republic: Heinrich König's novel ‘Die Clubbisten in Mainz’ (1847) on the eve of 1848, Karl Klein's ‘Georg Forster in Mainz’ (1863) with documents in its appendix.",
-   "quelle": "H. König, Die Clubbisten in Mainz (Leipzig 1847); K. Klein, Georg Forster in Mainz 1788 bis 1793 (Gotha 1863)."
+   "kurz": "Nachleben: Namensverzeichnis (1793), König (1847), Klein (1863)",
+   "kurz_en": "Afterlife: list of names (1793), König (1847), Klein (1863)",
+   "warum": "Wie die Mainzer Republik weiterlebte: ein in Frankfurt gedrucktes „Namensverzeichniß“ der „454 Klubbisten“ noch während der Belagerung, mit einem bösen Eintrag über Forster; Heinrich Königs Roman „Die Clubisten in Mainz“ (1847), der Forster am Hof Erthals zeigt; und Karl Kleins „Georg Forster in Mainz“ (1863), das jeden, der Forster feiert, der Unwissenheit oder einer „verwerflichen Gesinnung“ zeiht. Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "How the Mainz Republic lived on: a 'list of names' of the '454 Clubists' printed in Frankfurt while the siege was still going on, with a spiteful entry on Forster; Heinrich König's novel 'The Clubists in Mainz' (1847), which shows Forster at Erthal's court; and Karl Klein's 'Georg Forster in Mainz' (1863), which accuses anyone who celebrates Forster of ignorance or a 'reprehensible disposition'. Read against the page images, with English translation."
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "scheel",

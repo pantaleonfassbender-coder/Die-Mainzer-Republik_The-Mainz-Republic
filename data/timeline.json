@@ -34,8 +34,8 @@
    "side": "klub",
    "titel": "Der Klub",
    "titel_en": "The club",
-   "text": "Zwanzig Mainzer gründen die Gesellschaft der Freunde der Freiheit und Gleichheit, den Jakobinerklub. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts; module planned.)",
+   "text": "Zwanzig Mainzer gründen die Gesellschaft der Freunde der Freiheit und Gleichheit, den Jakobinerklub. (Nach modernen Darstellungen.)",
+   "text_en": "Twenty citizens of Mainz found the Society of the Friends of Liberty and Equality, the Jacobin club. (After modern accounts.)",
    "plate": "klubsitzung"
   },
   {
@@ -91,8 +91,11 @@
    "side": "franzosen",
    "titel": "Das Dekret von Paris",
    "titel_en": "The Paris decree",
-   "text": "Der Nationalkonvent in Paris bestimmt, wie in den besetzten Gebieten die alte Ordnung abgeschafft und neue Verwaltungen gewählt werden sollen. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The National Convention in Paris determines how the old order is to be abolished in the occupied territories and new administrations elected. (After modern accounts; module planned.)"
+   "text": "Der Nationalkonvent in Paris bestimmt, wie in den besetzten Gebieten die alte Ordnung abgeschafft und neue Verwaltungen gewählt werden sollen. (Nach modernen Darstellungen.)",
+   "text_en": "The National Convention in Paris determines how the old order is to be abolished in the occupied territories and new administrations elected. (After modern accounts.)",
+   "cite": "#/text/eid/aufschub/19",
+   "citeLabel": "Eid [19]",
+   "citeLabel_en": "Eid [19]"
   },
   {
    "d": "16.–20. Februar 1793",
@@ -196,6 +199,18 @@
    "citeLabel_en": "Belagerung [5]"
   },
   {
+   "d": "Juni 1793",
+   "d_en": "June 1793",
+   "side": "reich",
+   "titel": "Das Namensverzeichnis",
+   "titel_en": "The list of names",
+   "text": "In Frankfurt erscheint ein „Getreues Namensverzeichniß“ der „454 Klubbisten“ in der belagerten Stadt, mit Beruf und Urteil, für drei Kreuzer. Forster, inzwischen in Paris, habe als Bibliothekar „ohne etwas dafür zu arbeiten“ eine starke Besoldung gezogen.",
+   "text_en": "In Frankfurt a 'Faithful List of Names' of the '454 Clubists' in the besieged city appears, with trades and verdicts, for three kreuzers. Forster, by now in Paris, is said to have drawn a large salary as librarian 'without doing any work for it'.",
+   "cite": "#/text/nachleben/pranger/5",
+   "citeLabel": "Nachleben [5]",
+   "citeLabel_en": "Nachleben [5]"
+  },
+  {
    "d": "Juni–Juli 1793",
    "d_en": "June–July 1793",
    "side": "zeugen",
@@ -240,8 +255,24 @@
    "side": "klub",
    "titel": "Forster stirbt",
    "titel_en": "Forster dies",
-   "text": "Georg Forster stirbt in Paris, ohne Mainz wiedergesehen zu haben. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Georg Forster dies in Paris without having seen Mainz again. (After modern accounts; module planned.)"
+   "text": "Georg Forster stirbt in Paris, ohne Mainz wiedergesehen zu haben. Siebzig Jahre später schreibt ein Mainzer, fast vierzig Jahre lang habe man sich „gescheut, ihn zu nennen“.",
+   "text_en": "Georg Forster dies in Paris without having seen Mainz again. Seventy years later a man of Mainz writes that for almost forty years people had 'shrunk from naming him'.",
+   "cite": "#/text/nachleben/klein/9",
+   "citeLabel": "Nachleben [9]",
+   "citeLabel_en": "Nachleben [9]"
+  },
+  {
+   "d": "1847–1863",
+   "d_en": "1847–1863",
+   "side": "rezeption",
+   "titel": "Roman und Anklage",
+   "titel_en": "Novel and indictment",
+   "text": "Heinrich König macht Forster zur Hauptfigur seines Romans „Die Clubisten in Mainz“ (1847). 1854 und 1862 schlägt Jacob Moleschott den Mainzern ein Denkmal für Forster vor; Karl Klein antwortet 1863 mit „Georg Forster in Mainz“: Wer Forster feiere, sei unwissend oder gesinnungslos.",
+   "text_en": "Heinrich König makes Forster the main character of his novel 'The Clubists in Mainz' (1847). In 1854 and 1862 Jacob Moleschott proposes a monument to Forster to the people of Mainz; in 1863 Karl Klein answers with 'Georg Forster in Mainz': whoever celebrates Forster is ignorant or of base disposition.",
+   "cite": "#/text/nachleben/klein/12",
+   "citeLabel": "Nachleben [12]",
+   "citeLabel_en": "Nachleben [12]",
+   "plate": "koenig1855"
   }
  ]
 }

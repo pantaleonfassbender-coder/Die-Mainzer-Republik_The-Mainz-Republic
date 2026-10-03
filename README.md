@@ -6,7 +6,7 @@ Ein zweisprachiger Quellenapparat zur Mainzer Republik 1792–1793: Was bleibt v
 
 Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten Mainzer einen Klub, wählten unter Eid einen Konvent, der am 18. März 1793 im Deutschhaus das Land von Landau bis Bingen für frei erklärte, und verloren die Stadt am 23. Juli 1793 an die Belagerer. Georg Forster ist die Stimme, die durch alle Teile geht; Goethe sah die Belagerung aus dem Lager, Caroline Böhmer den Winter aus der Stadt.
 
-**Stand:** Im Aufbau, zehn Module geplant. Abgedruckt:
+**Stand:** Alle zehn geplanten Module sind abgedruckt:
 
 - **Custine vor Mainz: Aufforderung und Übergabe (Oktober 1792)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 1 (1793), Beylagen No. 1–9 und Erzählung, mit einer Anmerkung aus Heft 2; am Seitenbild gelesen, mit englischer Übersetzung.
 - **Forster im Klub: die Rede vom November 1792** — Georg Forster, *Ueber das Verhältniß der Mainzer gegen die Franken*, vollständig nach den Sämmtlichen Schriften, Bd. 6 (1843), S. 413–431; dazu Anton Hoffmann über Forsters Eintritt, das rote und das schwarze Buch und die Rede (Heft 3, S. 222–234; Heft 4, S. 256–260); am Seitenbild gelesen, mit englischer Übersetzung.
@@ -24,8 +24,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 - **Gegenstimmen: Mainz im Genusse der Freiheit und Gleichheit (1793)** — anonyme Mainzer Flugschrift, S. 6–9, 17–28; am Seitenbild gelesen, mit englischer Übersetzung.
 
 - **Forster: Darstellung der Revolution in Mainz (Fragment, 1792)** — Sämmtliche Schriften, Bd. 6 (1843), S. 352–412, Auszüge; am Seitenbild gelesen, mit englischer Übersetzung.
+- **Nachleben: Namensverzeichnis, Roman und Anklage (1793–1863)** — *Getreues Namensverzeichniß der in Mainz sich befindenden 454 Klubbisten* (Frankfurt 1793); Heinrich Koenig, *Die Clubisten in Mainz*, Erster Theil (1847), S. 22–23, 57–59; K. Klein, *Georg Forster in Mainz 1788 bis 1793* (1863), Vorwort und S. 22–23; am Seitenbild gelesen, mit englischer Übersetzung.
 
-Dazu einundzwanzig Vergleiche. Geplant ist das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+Dazu vierundzwanzig Vergleiche. Die Seite „Texte“ nennt alle Module mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

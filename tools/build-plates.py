@@ -48,6 +48,9 @@ SOURCES = {
     "tanz": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jakobiner_beim_Tanz_um_den_Freiheitsbaum.jpg",
     # Modul „Darstellung“
     "darstellung1843": "https://archive.org/download/smmtlicheschri06forsuoft/page/n363_w1800.jpg",
+    # Modul „Nachleben“
+    "koenig1855": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Die_Gartenlaube_%281855%29_b_419.jpg",
+    "moleschott": "https://upload.wikimedia.org/wikipedia/commons/a/af/PSM_V49_D304_Jacob_Moleschott.jpg",
 }
 
 ROTATE = {"karte1884": -90}  # sideways in the book

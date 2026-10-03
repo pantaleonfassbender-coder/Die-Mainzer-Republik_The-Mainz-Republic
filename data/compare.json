@@ -627,6 +627,89 @@
      ]
     }
    ]
+  },
+  {
+   "id": "forster_dreimal",
+   "titel": "Forster, nachgerufen",
+   "titel_en": "Forster, remembered",
+   "frage": "1793, 1847, 1863: drei Bilder desselben Mannes.",
+   "frage_en": "1793, 1847, 1863: three pictures of the same man.",
+   "note": "Das Namensverzeichnis macht Forster zum faulen Bibliothekar und undankbaren Schmäher Preußens; König zeigt ihn als höflichen Aufklärer, der dem Kurfürsten von Gewissensfreiheit spricht; Klein nennt ihn einen Verräter, dem man „niemals“ vergeben könne. Alle drei schreiben über Forster, keiner gibt ihm das Wort; das tun auf dieser Seite seine Rede und seine „Darstellung“.",
+   "note_en": "The list of names makes Forster a lazy librarian and an ungrateful reviler of Prussia; König shows him as a courteous man of the Enlightenment who speaks to the Elector of freedom of conscience; Klein calls him a traitor who can 'never' be forgiven. All three write about Forster, none lets him speak; on this site his speech and his 'Account' do that.",
+   "voices": [
+    {
+     "text": "nachleben",
+     "sec": "pranger",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "nachleben",
+     "sec": "roman",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "nachleben",
+     "sec": "klein",
+     "n": [
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "preussen",
+   "titel": "Der König von Preußen",
+   "titel_en": "The King of Prussia",
+   "frage": "Was Forster sagte und was man ihm vorwarf.",
+   "frage_en": "What Forster said and what he was reproached with.",
+   "note": "Im November 1792 nennt Forster Preußen ein Königreich, das „blos durch Finanzoperationen“ zum ersten Rang gekommen sei und seine besten Truppen aufgeopfert habe. Das Namensverzeichnis vom Juni 1793 hält ihm genau diese Rede vor: Er schimpfe auf den König, der seinem Vater in Halle „Brod giebt“. Ein Vorwurf nicht der Politik, sondern der Undankbarkeit.",
+   "note_en": "In November 1792 Forster calls Prussia a kingdom that rose to the first rank 'merely by financial operations' and has sacrificed its best troops. The list of names of June 1793 holds exactly this speech against him: he abuses the King who 'gives bread' to his father at Halle. A reproach not of politics but of ingratitude.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "rede2",
+     "n": [
+      17
+     ]
+    },
+    {
+     "text": "nachleben",
+     "sec": "pranger",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "koenigstein_haft",
+   "titel": "In Königstein",
+   "titel_en": "In Königstein",
+   "frage": "Frühjahr 1793: Gefangene in der Festung.",
+   "frage_en": "Spring 1793: prisoners in the fortress.",
+   "note": "Caroline Böhmer schreibt im April 1793 aus der Festung Königstein und beschreibt sie im Juni aus Kronberg; das Namensverzeichnis meldet mit Genugtuung, dass zwei geistliche Klubisten dort „ihren Stolz und Narrheit“ büßen. Dieselbe Festung, von innen und von außen.",
+   "note_en": "Caroline Böhmer writes from the fortress of Königstein in April 1793 and describes it from Kronberg in June; the list of names reports with satisfaction that two clerical Clubists are atoning there for 'their pride and folly'. The same fortress, from inside and from outside.",
+   "voices": [
+    {
+     "text": "caroline",
+     "sec": "haft",
+     "n": [
+      6,
+      8
+     ]
+    },
+    {
+     "text": "nachleben",
+     "sec": "pranger",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }
