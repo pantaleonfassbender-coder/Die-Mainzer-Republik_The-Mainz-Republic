@@ -1,7 +1,48 @@
 {
- "lede": "Bildnisse, Flugblätter, Ansichten der Stadt und der Belagerung, alle gemeinfrei, mit den Modulen nach und nach.",
- "lede_en": "Portraits, broadsides, views of the city and the siege, all in the public domain, added module by module.",
- "credit": "",
- "credit_en": "",
- "plates": []
+ "lede": "Was die Zeit selbst zeigt und was spätere Zeiten daraus machten. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, zu denen sie gehören.",
+ "lede_en": "What the time itself shows, and what later times made of it. Every plate names its source; the captions point to the passages they belong to.",
+ "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862). Für die Site verkleinert.",
+ "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862). Reduced in size for the site.",
+ "plates": [
+  {
+   "id": "erthal",
+   "side": "reich",
+   "titel": "Der Kurfürst",
+   "titel_en": "The Elector",
+   "caption": "Friedrich Carl Joseph von Erthal, Erzbischof und Kurfürst von Mainz, auf einer Miniatur Heinrich Friedrich Fügers von 1789, drei Jahre vor der Einnahme. Im Oktober 1792 floh er aus der Stadt; seine Statthalterschaft rief die Bürger zu den Waffen (Custine [1]), und Custine nannte seine Politik „hirnlose Projekte“ (Custine [6]).",
+   "caption_en": "Friedrich Carl Joseph von Erthal, Archbishop and Elector of Mainz, in a miniature by Heinrich Friedrich Füger of 1789, three years before the capture. In October 1792 he fled the city; his Lieutenancy called the citizens to arms (Custine [1]), and Custine called his policy 'brainless projects' (Custine [6]).",
+   "source": "Heinrich Friedrich Füger, 1789, Aquarell und Deckfarbe auf Elfenbein; Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/custine/statthalter/1"
+  },
+  {
+   "id": "custine",
+   "side": "franzosen",
+   "titel": "Der General",
+   "titel_en": "The general",
+   "caption": "Adam Philippe de Custine, „Général de l'Armée du Rhin“, Farbstich von Pierre Michel Alix, Paris, vor dem Sommer 1793. Custine nahm Speyer, Worms und Mainz und unterschrieb seine Drohbriefe als „Franken Bürger“ (Custine [4]–[6]). Im August 1793 wurde er in Paris wegen der Verluste am Rhein vor Gericht gestellt und hingerichtet.",
+   "caption_en": "Adam Philippe de Custine, 'Général de l'Armée du Rhin', colour print by Pierre Michel Alix, Paris, before summer 1793. Custine took Speyer, Worms and Mainz and signed his threatening letters as 'citizen of the Franks' (Custine [4]–[6]). In August 1793 he was tried in Paris for the losses on the Rhine and executed.",
+   "source": "Pierre Michel Alix, Farbstich; Musée Carnavalet, Paris, G.42227; Wikimedia Commons, CC0",
+   "cite": "#/text/custine/aufforderung/4"
+  },
+  {
+   "id": "festung",
+   "side": "reich",
+   "titel": "Die Festung",
+   "titel_en": "The fortress",
+   "caption": "Die Festung Mainz mit Kastel am anderen Ufer und den Dörfern ringsum, auf einem niederländischen Plan der Belagerung von 1793. Oben links Marienborn: Im Oktober 1792 lag dort Custines Lager, in dem die Kapitulation geschlossen wurde (Custine [12]); 1793 war es das Hauptquartier der Belagerer.",
+   "caption_en": "The fortress of Mainz with Kastel on the far bank and the villages around it, on a Dutch plan of the siege of 1793. Top left, Marienborn: in October 1792 Custine's camp lay there, where the capitulation was concluded (Custine [12]); in 1793 it was the besiegers' headquarters.",
+   "source": "Plan van het Beleg der Stad en Vesting Mentz, E. W. Cramerus jun. excudit, 1793; Rijksmuseum Amsterdam, RP-P-OB-86.290; Wikimedia Commons, CC0",
+   "cite": "#/text/custine/uebergabe/12"
+  },
+  {
+   "id": "beck1862",
+   "side": "rezeption",
+   "titel": "Ein Bild von 1862",
+   "titel_en": "A picture of 1862",
+   "caption": "„Die Franzosen in Mainz 1792“: Jubelnde Mainzer, die Hüte in der Luft, begrüßen die einreitenden Offiziere. Der Holzstich August Becks erschien siebzig Jahre später in einer volkstümlichen „Deutschen Geschichte in Bildern“ und zeigt, was das 19. Jahrhundert sich vorstellte. Hoffmann, der dabei war, erzählt denselben Tag anders: die meisten Bürger „mißvergnügt, ja untröstlich“ (Custine [15]).",
+   "caption_en": "'The French in Mainz, 1792': cheering townspeople, hats in the air, greet the officers riding in. August Beck's wood engraving appeared seventy years later in a popular 'German History in Pictures' and shows what the nineteenth century imagined. Hoffmann, who was there, tells the same day differently: most citizens 'displeased, indeed inconsolable' (Custine [15]).",
+   "source": "August Beck, Holzstich, in: F. Bülau (Hg.), Die deutsche Geschichte in Bildern, Bd. 3 (Dresden 1862); Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/custine/einzug/15"
+  }
+ ]
 }

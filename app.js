@@ -278,7 +278,7 @@ function plates() {
     <p class="lede">${esc(L(D.plates, "lede"))}</p>
     <div class="grid g4">${D.plates.plates.map(p => `
       <figure class="plate card"><a href="#" data-p="${p.id}"><img src="assets/plates/${p.id}_t.jpg" alt="${esc(L(p, "titel"))}"></a>
-      <figcaption>${side(p.side)} <b>${esc(L(p, "titel"))}</b><br>${esc(L(p, "caption"))}<br><i>${esc(p.source)}</i></figcaption></figure>`).join("")}</div>
+      <figcaption>${side(p.side)} <b>${esc(L(p, "titel"))}</b><br>${esc(L(p, "caption"))}${p.cite ? ` <a href="${p.cite}">✦</a>` : ""}<br><i>${esc(p.source)}</i></figcaption></figure>`).join("")}</div>
     <p class="fine">${esc(L(D.plates, "credit"))}</p>`;
   view.querySelectorAll("[data-p]").forEach(a => a.onclick = e => {
     e.preventDefault();

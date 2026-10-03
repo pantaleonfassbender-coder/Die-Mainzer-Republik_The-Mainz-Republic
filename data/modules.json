@@ -1,16 +1,17 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "custine",
+   "datei": "custine",
    "side": "franzosen",
    "zk": "Custine",
-   "kurz": "Custine an die Mainzer (Oktober–November 1792)",
-   "kurz_en": "Custine to the people of Mainz (October–November 1792)",
-   "warum": "Die Proklamationen des Generals nach der Einnahme: Freiheit für die Völker, Krieg den Palästen, Kontributionen für Adel und Geistlichkeit. Gedruckt deutsch und französisch, für die Mainzer geschrieben, im Namen der Republik.",
-   "warum_en": "The general's proclamations after the capture: liberty to the peoples, war on the palaces, levies on nobility and clergy. Printed in German and French, written for the people of Mainz, in the name of the Republic.",
-   "quelle": "Zeitgenössische Einblattdrucke 1792 (Bayerische Staatsbibliothek, zu sichten); Abdrucke bei K. Klein, Georg Forster in Mainz (1863)."
-  },
+   "kurz": "Custine vor Mainz: Aufforderung und Übergabe (Oktober 1792)",
+   "kurz_en": "Custine before Mainz: summons and surrender (October 1792)",
+   "warum": "Vierzehn Tage, neun Dokumente: der Aufruf der Statthalterschaft, Custines Drohbriefe an Gouverneur und Stadtrat, Gymnichs Angebot, die Weigerung der kaiserlichen Offiziere, die Kapitulation von Marienborn, und Custine im Rathaus, der den Mainzern die freie Wahl ihrer Verfassung verspricht. Nach Anton Hoffmanns Darstellung der Mainzer Revolution (1793), am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "A fortnight, nine documents: the Lieutenancy's appeal, Custine's threatening letters to the governor and the city council, Gymnich's offer, the refusal of the Imperial officers, the capitulation of Marienborn, and Custine in the town hall promising the people of Mainz a free choice of their constitution. From Anton Hoffmann's Darstellung der Mainzer Revolution (1793), read against the page images, with English translation."
+  }
+ ],
+ "planned": [
   {
    "id": "forster1792",
    "side": "klub",
@@ -29,7 +30,7 @@
    "kurz_en": "Election and oath (February 1793)",
    "warum": "Die Kommissare des Pariser Nationalkonvents schreiben Wahlen aus: wählen darf, wer der Freiheit und Gleichheit Treue schwört und dem Kurfürsten entsagt. Die Eidformel, die Wahlordnung und die Berichte über Gemeinden, die den Eid verweigerten.",
    "warum_en": "The commissioners of the National Convention in Paris call elections: whoever swears loyalty to liberty and equality and renounces the Elector may vote. The oath, the electoral rules and the reports of communities that refused it.",
-   "quelle": "Drucke 1793 (zu suchen); Abdrucke bei Klein (1863) und F. X. Remling, Die Rheinpfalz in der Revolutionszeit von 1792 bis 1798 (Speyer 1865–1866)."
+   "quelle": "[A. Hoffmann], Darstellung der Mainzer Revolution, Hefte 5–11 (1793–1794) mit ihren Beylagen; Abdrucke bei Klein (1863) und F. X. Remling, Die Rheinpfalz in der Revolutionszeit von 1792 bis 1798 (Speyer 1865–1866)."
   },
   {
    "id": "konvent",
@@ -39,7 +40,7 @@
    "kurz_en": "The Rhenish-German National Convention (17–21 March 1793)",
    "warum": "Im Deutschhaus, dem heutigen Landtag von Rheinland-Pfalz, erklärt der Konvent das Land von Landau bis Bingen für frei und unabhängig, sagt sich von Kaiser und Reich los und beschließt drei Tage später, den Anschluss an Frankreich zu erbitten.",
    "warum_en": "In the Deutschhaus, today the seat of the Landtag of Rhineland-Palatinate, the Convention declares the land from Landau to Bingen free and independent, renounces Emperor and Empire, and three days later resolves to ask for union with France.",
-   "quelle": "Dekrete des Konvents, Drucke Mainz 1793 (zu suchen); Abdrucke bei Klein (1863) und Remling (1865–1866)."
+   "quelle": "[A. Hoffmann], Darstellung der Mainzer Revolution, Hefte 5–11 (1793–1794) mit ihren Beylagen; Dekrete des Konvents; Abdrucke bei Klein (1863) und Remling (1865–1866)."
   },
   {
    "id": "darstellung",

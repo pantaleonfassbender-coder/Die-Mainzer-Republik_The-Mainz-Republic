@@ -3,13 +3,30 @@
  "lede_en": "From the taking of the city to Forster's death. For now the stations follow modern accounts; with each module they are checked against the sources and then point into the texts.",
  "stations": [
   {
+   "d": "7. Oktober 1792",
+   "d_en": "7 October 1792",
+   "side": "reich",
+   "titel": "Die Statthalterschaft ruft zu den Waffen",
+   "titel_en": "The Lieutenancy calls to arms",
+   "text": "Nach der Niederlage bei Speyer verspricht die Regierung des Kurfürsten jedem Bürger, der bei der Verteidigung verwundet wird, eine Rente auf Lebenszeit, und der Stadt Ersatz für Brandschäden.",
+   "text_en": "After the defeat at Speyer, the Elector's government promises a life pension to every citizen wounded in the defence, and compensation to the city for fire damage.",
+   "cite": "#/text/custine/statthalter/1",
+   "citeLabel": "Custine [1]",
+   "citeLabel_en": "Custine [1]",
+   "plate": "erthal"
+  },
+  {
    "d": "21. Oktober 1792",
    "d_en": "21 October 1792",
    "side": "franzosen",
-   "titel": "Custine in Mainz",
-   "titel_en": "Custine in Mainz",
-   "text": "Die Revolutionsarmee unter General Custine nimmt die kurfürstliche Festung fast kampflos; der Kurfürst ist geflohen. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The revolutionary army under General Custine takes the Elector's fortress almost without a fight; the Elector has fled. (After modern accounts; module planned.)"
+   "titel": "Die Übergabe",
+   "titel_en": "The surrender",
+   "text": "Nach drei Drohbriefen Custines übergibt der Gouverneur von Gymnich die Festung ohne Kampf; der Kurfürst ist geflohen. Am Abend verspricht Custine im Rathaus, die Mainzer könnten ihre alte Verfassung behalten, sich eine neue wählen oder die französische annehmen.",
+   "text_en": "After three threatening letters from Custine, the governor, von Gymnich, surrenders the fortress without a fight; the Elector has fled. That evening Custine promises in the town hall that the people of Mainz may keep their old constitution, choose a new one, or adopt the French one.",
+   "cite": "#/text/custine/einzug/15",
+   "citeLabel": "Custine [15]",
+   "citeLabel_en": "Custine [15]",
+   "plate": "custine"
   },
   {
    "d": "23. Oktober 1792",

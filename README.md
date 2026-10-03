@@ -6,7 +6,11 @@ Ein zweisprachiger Quellenapparat zur Mainzer Republik 1792–1793: Was bleibt v
 
 Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten Mainzer einen Klub, wählten unter Eid einen Konvent, der am 18. März 1793 im Deutschhaus das Land von Landau bis Bingen für frei erklärte, und verloren die Stadt am 23. Juli 1793 an die Belagerer. Georg Forster ist die Stimme, die durch alle Teile geht; Goethe sah die Belagerung aus dem Lager, Caroline Böhmer den Winter aus der Stadt.
 
-**Stand:** Gerüst. Zehn Module sind geplant (Custines Proklamationen, Forsters Reden und seine *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer, das Nachleben bei König und Klein); die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde.
+**Stand:** Im Aufbau, zehn Module geplant. Abgedruckt:
+
+- **Custine vor Mainz: Aufforderung und Übergabe (Oktober 1792)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 1 (1793), Beylagen No. 1–9 und Erzählung, mit einer Anmerkung aus Heft 2; am Seitenbild gelesen, mit englischer Übersetzung.
+
+Geplant sind Forsters Reden und seine *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 
