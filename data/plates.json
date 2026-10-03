@@ -1,8 +1,8 @@
 {
  "lede": "Was die Zeit selbst zeigt und was spätere Zeiten daraus machten. Jede Tafel nennt ihre Quelle; die Bildunterschriften verweisen auf die Stellen, zu denen sie gehören.",
  "lede_en": "What the time itself shows, and what later times made of it. Every plate names its source; the captions point to the passages they belong to.",
- "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862); Johann Heinrich Wilhelm Tischbein, Bildnis Georg Forsters (um 1785); der Zug zum ersten Mainzer Freiheitsbaum (Kupferstich, 1792). Dazu eine Seite aus Forsters Sämmtlichen Schriften (1843) aus dem Internet Archive. Für die Site verkleinert. Für „Wahl und Eid“: der Mainzer Freiheitsbaum vom 13. Januar 1793 (Revolutions-Almanach 1794) und ein Mainzer Spottbild aus J. J. Ihlées Tagebuch (1793). Für „Der Konvent“: das Titelblatt von A. J. Hofmanns Aristokraten-Katechismus (1792) und François Bonnevilles Bildnis Adam Lux' (BnF).",
- "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862); Johann Heinrich Wilhelm Tischbein, portrait of Georg Forster (c. 1785); the procession to the first liberty tree in Mainz (engraving, 1792). With a page of Forster's collected writings (1843) from the Internet Archive. Reduced in size for the site. For 'Election and oath': the Mainz liberty tree of 13 January 1793 (Revolutions-Almanach 1794) and a Mainz satirical print from J. J. Ihlée's diary (1793). For 'The Convention': the title page of A. J. Hofmann's Aristokraten-Katechismus (1792) and François Bonneville's portrait of Adam Lux (BnF).",
+ "credit": "Tafeln aus gemeinfreien Reproduktionen über Wikimedia Commons: Pierre Michel Alix, Bildnis Custines (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, Bildnis des Kurfürsten Friedrich Carl Joseph von Erthal (1789); niederländischer Plan der Belagerung von Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, Die Franzosen in Mainz 1792 (Holzstich, 1862); Johann Heinrich Wilhelm Tischbein, Bildnis Georg Forsters (um 1785); der Zug zum ersten Mainzer Freiheitsbaum (Kupferstich, 1792). Dazu eine Seite aus Forsters Sämmtlichen Schriften (1843) aus dem Internet Archive. Für die Site verkleinert. Für „Wahl und Eid“: der Mainzer Freiheitsbaum vom 13. Januar 1793 (Revolutions-Almanach 1794) und ein Mainzer Spottbild aus J. J. Ihlées Tagebuch (1793). Für „Der Konvent“: das Titelblatt von A. J. Hofmanns Aristokraten-Katechismus (1792) und François Bonnevilles Bildnis Adam Lux' (BnF). Für „Die Belagerung“: ein niederländischer Stich der Beschießung (Rijksmuseum), Johann Caspar Schneiders Aquarell der Liebfrauenkirche (Albertina), ein Mainzer Notgeldstück von 1793 (Musée Carnavalet, CC0) und eine Haller Schützenscheibe von 1793.",
+ "credit_en": "Plates from public-domain reproductions via Wikimedia Commons: Pierre Michel Alix, portrait of Custine (Musée Carnavalet, Paris, CC0); Heinrich Friedrich Füger, portrait of the Elector Friedrich Carl Joseph von Erthal (1789); Dutch plan of the siege of Mainz, 1793 (Rijksmuseum Amsterdam, CC0); August Beck, The French in Mainz, 1792 (wood engraving, 1862); Johann Heinrich Wilhelm Tischbein, portrait of Georg Forster (c. 1785); the procession to the first liberty tree in Mainz (engraving, 1792). With a page of Forster's collected writings (1843) from the Internet Archive. Reduced in size for the site. For 'Election and oath': the Mainz liberty tree of 13 January 1793 (Revolutions-Almanach 1794) and a Mainz satirical print from J. J. Ihlée's diary (1793). For 'The Convention': the title page of A. J. Hofmann's Aristokraten-Katechismus (1792) and François Bonneville's portrait of Adam Lux (BnF). For 'The siege': a Dutch engraving of the bombardment (Rijksmuseum), Johann Caspar Schneider's watercolour of the Liebfrauenkirche (Albertina), a Mainz emergency coin of 1793 (Musée Carnavalet, CC0) and a shooting target from Schwäbisch Hall of 1793.",
  "plates": [
   {
    "id": "erthal",
@@ -113,6 +113,46 @@
    "caption_en": "'Adam Lux, born at Ebernburg in 1767, extraordinary deputy of Mainz to the Convention, beheaded on 14 Brumaire Year II': one of the three envoys who travelled to Paris with Forster on 25 March 1793 to request union (Konvent [12]). He was executed in Paris on 4 November 1793. Engraving by François Bonneville.",
    "source": "François Bonneville, Kupferstich, Paris um 1797; Bibliothèque nationale de France, über Wikimedia Commons, gemeinfrei",
    "cite": "#/text/konvent/anschluss/12"
+  },
+  {
+   "id": "beschiessung",
+   "side": "reich",
+   "titel": "Die Beschießung",
+   "titel_en": "The bombardment",
+   "caption": "„Gezigt van de Stad Mainz … zedert den 30sten Juny 1793 van de gecombineerde duitsche Armee belegert en beschoten“: Mainz und Kastel aus der Sicht der Belagerer, Batterien, Lager und Laufgräben, mit Erklärung. Am Abend des 30. Juni brannten nach Schaber der Thalberger und Ingelheimer Hof und Häuser in der Judengasse (Belagerung [9]).",
+   "caption_en": "'View of the city of Mainz … besieged and bombarded since 30 June 1793 by the combined German army': Mainz and Kastel from the besiegers' side, batteries, camps and trenches, with a key. On the evening of 30 June, according to Schaber, the Thalberg and Ingelheim courts and houses in the Judengasse burned (Belagerung [9]).",
+   "source": "Niederländischer Kupferstich, 1793; Rijksmuseum Amsterdam, über Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/belagerung/bombardement/9"
+  },
+  {
+   "id": "liebfrauen",
+   "side": "zeugen",
+   "titel": "Die Ruine der Liebfrauenkirche",
+   "titel_en": "The ruin of the Liebfrauenkirche",
+   "caption": "„Ruin der Lieben Frau-Kirche in Maynz nach der Belagerung im Jahre 1793“, Aquarell des Mainzer Malers Johann Caspar Schneider. Die Kirche neben dem Dom diente der Besatzung als Getreidelager und brannte am Abend des 27. Juni aus (Belagerung [8]); auf dem Markt davor geht das Leben weiter.",
+   "caption_en": "'Ruin of the Church of Our Lady in Mainz after the siege of 1793', watercolour by the Mainz painter Johann Caspar Schneider. The church beside the cathedral served the garrison as a grain store and burned out on the evening of 27 June (Belagerung [8]); on the market in front of it life goes on.",
+   "source": "Johann Caspar Schneider, 1793, Feder, Pinsel und Aquarell; Albertina, Wien, Inv. 14924; Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/belagerung/bombardement/8"
+  },
+  {
+   "id": "notmuenze",
+   "side": "franzosen",
+   "titel": "Belagerungsgeld",
+   "titel_en": "Siege money",
+   "caption": "„Cinq sols“ der belagerten Festung, 1793, „l'an 2“ der Republik: Notgeld aus Kupfer, das die Besatzung in Mainz prägen ließ, als kein Geld mehr aus Frankreich kam. Die Kapitulation verpflichtete die Franzosen, die Assignaten einzulösen, die in Mainz umliefen (Belagerung [13]).",
+   "caption_en": "'Cinq sols' of the besieged fortress, 1793, 'Year II' of the Republic: copper emergency money the garrison had struck in Mainz when no money came from France any more. The capitulation obliged the French to redeem the assignats circulating in Mainz (Belagerung [13]).",
+   "source": "Kupfer, Mainz 1793; Musée Carnavalet, Paris, NM1657; Wikimedia Commons, CC0",
+   "cite": "#/text/belagerung/kapitulation/13"
+  },
+  {
+   "id": "schuetzenscheibe",
+   "side": "rezeption",
+   "titel": "„Zielt gut, ihr Teutschen Schützen“",
+   "titel_en": "'Aim well, you German marksmen'",
+   "caption": "Eine Schützenscheibe aus Schwäbisch Hall vom 19. August 1793, vier Wochen nach der Kapitulation: Preußische Reiter vor dem befreiten Mainz, darüber „9 Monat u. 2 Tag war Meinz dem Reich entrissen“ und die Aufforderung, die „Rothen Mützen“ zu durchbohren. Die Löcher sind echte Treffer. So feierte man im Reich, was Schaber in seinen Versen besang (Belagerung [13]).",
+   "caption_en": "A shooting target from Schwäbisch Hall, 19 August 1793, four weeks after the capitulation: Prussian horsemen before liberated Mainz, above them '9 months and 2 days Mainz was torn from the Empire' and the call to pierce the 'red caps'. The holes are real hits. So the Empire celebrated what Schaber sang in his verses (Belagerung [13]).",
+   "source": "Öl auf Holz, Schwäbisch Hall 1793; Hällisch-Fränkisches Museum; Reproduktion nach dem Katalog „Deutschland und die Französische Revolution“ (1989), Wikimedia Commons, gemeinfrei",
+   "cite": "#/text/belagerung/kapitulation/13"
   }
  ]
 }

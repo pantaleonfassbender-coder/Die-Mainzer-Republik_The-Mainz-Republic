@@ -172,8 +172,11 @@
    "side": "reich",
    "titel": "Die Einschließung",
    "titel_en": "The investment",
-   "text": "Preußische, österreichische und Reichstruppen schließen die Stadt ein. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Prussian, Austrian and Imperial troops close round the city. (After modern accounts; module planned.)"
+   "text": "Ende März gehen die Preußen über den Rhein, Custine zieht nach Landau ab; Anfang April ist Mainz eingeschlossen, mit gut 20 000 Mann Besatzung und Vorräten für sechs Monate. Der Konvent beschließt eine zweite Ausweisung.",
+   "text_en": "At the end of March the Prussians cross the Rhine and Custine withdraws to Landau; by early April Mainz is shut in, with a garrison of over 20,000 and provisions for six months. The Convention decides on a second expulsion.",
+   "cite": "#/text/belagerung/einschliessung/5",
+   "citeLabel": "Belagerung [5]",
+   "citeLabel_en": "Belagerung [5]"
   },
   {
    "d": "Juni–Juli 1793",
@@ -181,17 +184,25 @@
    "side": "zeugen",
    "titel": "Die Beschießung",
    "titel_en": "The bombardment",
-   "text": "Die Belagerer beschießen die Stadt; der Dom brennt. Goethe sieht es aus dem Lager. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The besiegers bombard the city; the cathedral burns. Goethe watches from the camp. (After modern accounts; module planned.)"
+   "text": "Hunger und Preise steigen; fünfhundert Ausgewiesene liegen eine Nacht zwischen den Linien. Ab dem 25. Juni fallen Granaten: Am 27. brennt die Liebfrauenkirche, in der Nacht zum 29. der Dom. Goethe sieht es aus dem Lager.",
+   "text_en": "Hunger and prices rise; five hundred expelled lie a night between the lines. From 25 June shells fall: on the 27th the Liebfrauenkirche burns, on the night of the 28th the cathedral. Goethe watches from the camp.",
+   "cite": "#/text/belagerung/bombardement/8",
+   "citeLabel": "Belagerung [8]",
+   "citeLabel_en": "Belagerung [8]",
+   "plate": "liebfrauen"
   },
   {
-   "d": "23. Juli 1793",
-   "d_en": "23 July 1793",
+   "d": "20.–23. Juli 1793",
+   "d_en": "20–23 July 1793",
    "side": "reich",
    "titel": "Die Kapitulation",
    "titel_en": "The capitulation",
-   "text": "Die französische Besatzung kapituliert und zieht mit Waffen ab; die zurückgebliebenen Klubisten sind der Rache der Stadt und der Haft ausgeliefert. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "The French garrison capitulates and marches out under arms; the Clubists left behind are exposed to the city's revenge and to prison. (After modern accounts; module planned.)"
+   "text": "Die Soldaten erzwingen die Übergabe; der König von Preußen verhandelt nur mit dem General. Die Besatzung zieht mit Kriegsehren ab, für die Klubisten gilt die Kapitulation nicht: Sie sind der Rache der Stadt und der Haft ausgeliefert.",
+   "text_en": "The soldiers force the surrender; the King of Prussia negotiates only with the general. The garrison marches out with the honours of war; for the Clubists the capitulation does not hold: they are exposed to the city's revenge and to prison.",
+   "cite": "#/text/belagerung/kapitulation/11",
+   "citeLabel": "Belagerung [11]",
+   "citeLabel_en": "Belagerung [11]",
+   "plate": "schuetzenscheibe"
   },
   {
    "d": "10. Januar 1794",

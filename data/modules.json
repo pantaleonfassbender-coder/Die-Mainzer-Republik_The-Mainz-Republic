@@ -39,6 +39,16 @@
    "kurz_en": "The Convention: free state and union (17–29 March 1793)",
    "warum": "Der Rheinisch-Deutsche Nationalkonvent im Deutschhaus, dem heutigen Landtag: das Dekret vom 18. März, das das Land von Landau bis Bingen für frei erklärt und den alten Herren mit dem Tod droht; drei Tage später die Bitte um Anschluss an Frankreich, mit dem Schreiben an den Pariser Konvent; und das Gesetz vom 27. März, das die Nichtschwörenden mit ihren Familien ausweist. Nach Hoffmanns Beilagen und Bericht, am Seitenbild gelesen, mit englischer Übersetzung.",
    "warum_en": "The Rhenish-German National Convention in the Deutschhaus, today the state parliament: the decree of 18 March declaring the land from Landau to Bingen free and threatening the old lords with death; three days later the request for union with France, with the address to the Convention in Paris; and the law of 27 March expelling the non-swearers with their families. From Hoffmann's appendices and account, read against the page images, with English translation."
+  },
+  {
+   "id": "belagerung",
+   "datei": "belagerung",
+   "side": "zeugen",
+   "zk": "Belagerung",
+   "kurz": "Die Belagerung: ein Tagebuch aus dem Gefängnis (Februar–Juli 1793)",
+   "kurz_en": "The siege: a diary from prison (February–July 1793)",
+   "warum": "Karl Wilhelm Friedrich Schaber, als preußischer Kundschafter gefangen, sah die Belagerung vom Dachboden des Gefängnisses: die Einschließung, Hunger und Preise, fünfhundert Ausgewiesene im Regen zwischen den Linien, die Brände von Liebfrauenkirche und Dom, den 14. Juli der Klubisten und eine Übergabe, die die Soldaten erzwangen. Ein Gegner, der aus der Stadt schreibt. Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "Karl Wilhelm Friedrich Schaber, captured as a Prussian scout, watched the siege from the loft of his prison: the investment, hunger and prices, five hundred expelled in the rain between the lines, the burning of the Liebfrauenkirche and the cathedral, the Clubists' 14th of July, and a surrender forced by the soldiers. An opponent writing from inside the city. Read against the page images, with English translation."
   }
  ],
  "planned": [
@@ -63,23 +73,13 @@
    "quelle": "Flugschrift 1793 (Bayerische Staatsbibliothek, bsb11779263, Charakter zu prüfen); weitere Drucke zu sichten."
   },
   {
-   "id": "belagerung",
-   "side": "zeugen",
-   "zk": "Belagerung",
-   "kurz": "Tagebücher der Belagerung (April–Juli 1793)",
-   "kurz_en": "Diaries of the siege (April–July 1793)",
-   "warum": "Die Belagerten zählen Kugeln, Brände und Brotpreise: zwei Tagebücher und eine Beschreibung der Festung, gedruckt 1793, als alles noch frisch war, von Mainzern, die in der Stadt blieben.",
-   "warum_en": "The besieged count cannonballs, fires and the price of bread: two diaries and a description of the fortress, printed in 1793 while everything was still fresh, by people of Mainz who stayed in the city.",
-   "quelle": "„Mein Tagebuch der Belagerung von Mainz“ (1793, bsb11252758); „Die Belagerung der Stadt Mainz …“ (1793, bsb11694602); Gymnich, Beschreibung der Vestung Mainz (1793, bsb11087309)."
-  },
-  {
    "id": "goethe",
    "side": "zeugen",
    "zk": "Goethe",
    "kurz": "Goethe: Belagerung von Mainz (1793/1822)",
    "kurz_en": "Goethe: The Siege of Mainz (1793/1822)",
-   "warum": "Goethe begleitet den Herzog von Weimar ins Lager der Belagerer, sieht die Stadt brennen und nach der Kapitulation die Klubisten abziehen, und schreibt es dreißig Jahre später auf. Deutsch, mit der gemeinfreien englischen Übersetzung von 1882.",
-   "warum_en": "Goethe accompanies the Duke of Weimar to the besiegers' camp, watches the city burn and, after the capitulation, the Clubists leaving, and writes it down thirty years later. German, with the public-domain English translation of 1882.",
+   "warum": "Goethe begleitet den Herzog von Weimar ins Lager der Belagerer, sieht in der Nacht zum 29. Juni den Dom brennen und nach der Kapitulation die Klubisten abziehen, und schreibt es dreißig Jahre später auf. Deutsch, mit der gemeinfreien englischen Übersetzung von 1882.",
+   "warum_en": "Goethe accompanies the Duke of Weimar to the besiegers' camp, watches the cathedral burn on the night of 28–29 June and, after the capitulation, the Clubists leaving, and writes it down thirty years later. German, with the public-domain English translation of 1882.",
    "quelle": "J. W. von Goethe, Belagerung von Mainz (1822); engl. in Goethe, Miscellaneous Travels (London: Bell, 1882)."
   },
   {

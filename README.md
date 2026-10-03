@@ -15,7 +15,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 
 - **Der Konvent: Freistaat und Anschluss (17.–29. März 1793)** — [Anton Hoffmann], *Darstellung der Mainzer Revolution*, Heft 11 (S. 801–822, Beylagen No. 78–80 und 83): die Eröffnung im Deutschhaus, das Freistaatsdekret vom 18. März, der Anschlussbeschluss vom 21. März mit dem Schreiben nach Paris und das Gesetz über die Nichtschwörenden vom 27. März; am Seitenbild gelesen, mit englischer Übersetzung.
 
-Dazu neun Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Tagebücher der Belagerung, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+- **Die Belagerung: ein Tagebuch aus dem Gefängnis (Februar–Juli 1793)** — Karl Wilhelm Friedrich Schaber, *Mein Tagebuch der Belagerung von Mainz, geschrieben in Mainz* (Frankfurt 1793): Gefangenschaft, Einschließung, Hunger, die Brände von Liebfrauenkirche und Dom, die Kapitulation; am Seitenbild gelesen, mit englischer Übersetzung.
+
+Dazu zwölf Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Wahl und Eid, der Konvent, Gegenstimmen aus der Stadt, Goethe, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

@@ -263,6 +263,95 @@
      ]
     }
    ]
+  },
+  {
+   "id": "belagerung_prophezeit",
+   "titel": "„Die lächerliche Furcht vor einer Belagerung“",
+   "titel_en": "'The ridiculous fear of a siege'",
+   "frage": "November 1792, März 1793, Juni 1793: was versprochen wurde und was kam.",
+   "frage_en": "November 1792, March 1793, June 1793: what was promised and what came.",
+   "note": "Forster nennt im November die Furcht vor einer Belagerung lächerlich, die Franken würden zu Hunderttausenden kommen. Das Schreiben des Konvents nach Paris nennt Mainz eine Festung, an der jeder Angriff zu Schanden werde. Im Juni brennen nach Schaber Liebfrauenkirche und Dom.",
+   "note_en": "In November Forster calls the fear of a siege ridiculous; the Franks would come by hundreds of thousands. The Convention's address to Paris calls Mainz a fortress on which every attack must come to shame. In June, according to Schaber, the Liebfrauenkirche and the cathedral burn.",
+   "voices": [
+    {
+     "text": "forster1792",
+     "sec": "rede2",
+     "n": [
+      18
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "anschluss",
+     "n": [
+      14
+     ]
+    },
+    {
+     "text": "belagerung",
+     "sec": "bombardement",
+     "n": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zwei_kapitulationen",
+   "titel": "Zwei Kapitulationen",
+   "titel_en": "Two capitulations",
+   "frage": "Oktober 1792 und Juli 1793: dieselben Formeln in umgekehrter Richtung.",
+   "frage_en": "October 1792 and July 1793: the same formulas in the opposite direction.",
+   "note": "Im Oktober 1792 zog die Mainzer Besatzung mit Kriegsehren ab und durfte ein Jahr nicht gegen Frankreich dienen. Im Juli 1793 zieht die französische Besatzung mit Kriegsehren ab und darf ein Jahr nicht gegen die Verbündeten dienen. Beide Male schützt der Vertrag die Soldaten; die Bürger, die sich gebunden hatten, schützt er beide Male nicht.",
+   "note_en": "In October 1792 the Mainz garrison marched out with the honours of war and might not serve against France for a year. In July 1793 the French garrison marches out with the honours of war and may not serve against the allies for a year. Both times the treaty protects the soldiers; both times it does not protect the citizens who had committed themselves.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "uebergabe",
+     "n": [
+      12
+     ]
+    },
+    {
+     "text": "belagerung",
+     "sec": "kapitulation",
+     "n": [
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ausgewiesene",
+   "titel": "Ausgewiesen",
+   "titel_en": "Expelled",
+   "frage": "Februar, März, Juni 1793: wohin mit denen, die nicht dazugehören?",
+   "frage_en": "February, March, June 1793: where to with those who do not belong?",
+   "note": "Im Februar werden die geistlichen Räte mit verbundenen Augen zu den preußischen Vorposten geführt. Im März beschließt der Konvent die Ausweisung aller Nichtschwörenden mit ihren Familien. Im Juni nimmt keine Seite die Ausgewiesenen mehr auf: Die Belagerer lassen keine Esser hinaus, die Besatzung keine zurück.",
+   "note_en": "In February the clerical councillors are led blindfolded to the Prussian outposts. In March the Convention decides to expel all non-swearers with their families. In June neither side takes the expelled any more: the besiegers let no mouths out, the garrison none back in.",
+   "voices": [
+    {
+     "text": "eid",
+     "sec": "ausweisung",
+     "n": [
+      22
+     ]
+    },
+    {
+     "text": "konvent",
+     "sec": "nichtgeschworene",
+     "n": [
+      18
+     ]
+    },
+    {
+     "text": "belagerung",
+     "sec": "hunger",
+     "n": [
+      7
+     ]
+    }
+   ]
   }
  ]
 }

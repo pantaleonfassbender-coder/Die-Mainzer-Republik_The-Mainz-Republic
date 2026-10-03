@@ -32,6 +32,11 @@ SOURCES = {
     # Modul „Der Konvent“
     "katechismus": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Aristokratenkatechismus.png",
     "lux": C + "9/98/Adam_Lux_-_n%C3%A9_%C3%A0_Ebernbourg_en_1767%2C_d%C3%A9put%C3%A9_extra.re_de_Mayence_%C3%A0_la_Convention%2C_d%C3%A9capit%C3%A9_le_14_brumaire_l%27an_2_-_estampe_-_F._Bonneville_del._sculp._-_btv1b6943947d.jpg/1920px-thumbnail.jpg",
+    # Modul „Die Belagerung“
+    "beschiessung": C + "9/9b/Beschie%C3%9Fung_von_Mainz_1793.jpg/1920px-Beschie%C3%9Fung_von_Mainz_1793.jpg",
+    "liebfrauen": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Johann_Caspar_Schneider%2C_Ruin_der_Lieben_Frau-Kirche_in_Maynz_Nach_der_Belagerung_im_Jahre_1793%2C_1793.jpg",
+    "notmuenze": C + "5/54/Cinq_sols_si%C3%A8ge_de_Mayence%2C_1793%2C_NM1657.jpg/1920px-Cinq_sols_si%C3%A8ge_de_Mayence%2C_1793%2C_NM1657.jpg",
+    "schuetzenscheibe": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kapitulation_von_Mainz_1793.jpg",
 }
 
 
