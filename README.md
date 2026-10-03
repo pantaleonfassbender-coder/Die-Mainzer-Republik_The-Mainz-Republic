@@ -25,7 +25,7 @@ Dazu eine Zeitleiste mit 22 Stationen, 24 Vergleiche und 24 Tafeln. Die Seite �
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 
-**Begleitspiel:** *Der Freiheitsbaum – The Liberty Tree* (Prototyp 0 spielbar, https://der-freiheitsbaum.netlify.app/): Man führt den Konvent durch Wahl, Eid und Belagerung; die Stadt fällt, wie sie gefallen ist, gewertet wird, was bleibt.
+**Begleitspiel:** *Der Freiheitsbaum – The Liberty Tree* (Prototyp 0 spielbar, https://der-freiheitsbaum.netlify.app/, auch auf itch.io: https://leofassb.itch.io/der-freiheitsbaum-the-liberty-tree): Man führt den Konvent durch Wahl, Eid und Belagerung; die Stadt fällt, wie sie gefallen ist, gewertet wird, was bleibt.
 
 ## Aufbau
 
