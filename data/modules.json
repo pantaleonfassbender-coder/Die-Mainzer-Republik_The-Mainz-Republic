@@ -59,6 +59,16 @@
    "kurz_en": "Goethe: The Siege of Mainz (May–July 1793)",
    "warum": "Die Gegenansicht aus dem Lager der Belagerer: der Dombrand unter dem Sternenhimmel, der Auszug der Besatzung zur langsam gespielten Marseillaise, Klubisten auf der Flucht und vor Goethes Quartier ein „Halt!“, nach dem der Satz fällt: „ich will lieber eine Ungerechtigkeit begehen als Unordnung ertragen.“ Deutsch nach der Erstausgabe von 1822, englisch in der gemeinfreien Übersetzung von 1884.",
    "warum_en": "The opposite view from the besiegers' camp: the cathedral burning under the starry sky, the garrison marching out to a slowly played Marseillaise, Clubists in flight, and before Goethe's quarters a 'Hold!', after which comes the sentence: 'I would rather commit an injustice than suffer disorder.' German from the first edition of 1822, English in the public-domain translation of 1884."
+  },
+  {
+   "id": "caroline",
+   "datei": "caroline",
+   "side": "zeugen",
+   "zk": "Caroline",
+   "kurz": "Caroline: Briefe aus Mainz und aus der Haft (Oktober 1792 – Juni 1793)",
+   "kurz_en": "Caroline: letters from Mainz and from custody (October 1792 – June 1793)",
+   "warum": "Caroline Böhmer, später Schlegel und Schelling, lebte im Kreis der Forsters und saß in keiner Versammlung. Ihre Briefe erzählen den Herbst der Einnahme mit Witz und Zweifel, den Bauern, der „drey Tage von vieren“ für seine Herren arbeitet, die Flucht im März und die Haft auf der Festung Königstein als Geisel ohne Verhör: „ich bin wahrhaftig nur eine gute Frau, und keine Heldin.“ Am Seitenbild gelesen, mit englischer Übersetzung.",
+   "warum_en": "Caroline Böhmer, later Schlegel and Schelling, lived in the Forsters' circle and sat in no assembly. Her letters tell of the autumn of the capture with wit and doubt, of the peasant who works 'three days out of four' for his lords, of her flight in March and of custody in the fortress of Königstein as a hostage without a hearing: 'I am truly only a good woman, and no heroine.' Read against the page images, with English translation."
   }
  ],
  "planned": [
@@ -81,16 +91,6 @@
    "warum": "Was die Mainzer sagten, die nicht schworen: Proteste der Zünfte, Schriften gegen die Klubisten, und die Flugschrift „Mainz im Genusse der … Freiheit und Gleichheit“, nach ihrem Titel eine Gegenschrift.",
    "warum_en": "What the people of Mainz said who did not swear: protests of the guilds, pamphlets against the Clubists, and the pamphlet ‘Mainz im Genusse der … Freiheit und Gleichheit’, by its title a counter-pamphlet.",
    "quelle": "Flugschrift 1793 (Bayerische Staatsbibliothek, bsb11779263, Charakter zu prüfen); weitere Drucke zu sichten."
-  },
-  {
-   "id": "caroline",
-   "side": "zeugen",
-   "zk": "Caroline",
-   "kurz": "Caroline Böhmer: Briefe aus Mainz (1792–1793)",
-   "kurz_en": "Caroline Böhmer: letters from Mainz (1792–1793)",
-   "warum": "Die junge Witwe lebt im Kreis der Forsters, schreibt über Klub und Besatzung mit Witz und Sympathie, flieht im März 1793 und wird von preußischen Truppen verhaftet. Eine Stimme aus der Stadt, die nicht im Konvent saß.",
-   "warum_en": "The young widow lives in the Forsters' circle, writes about club and occupation with wit and sympathy, flees in March 1793 and is arrested by Prussian troops. A voice from the city that had no seat in the Convention.",
-   "quelle": "Caroline. Briefe an ihre Geschwister, ihre Tochter Auguste, die Familie Gotter, F. L. W. Meyer, A. W. und Fr. Schlegel …, hg. von G. Waitz (Leipzig 1871)."
   },
   {
    "id": "nachleben",

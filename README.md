@@ -19,7 +19,9 @@ Die These, an den Texten zu prüfen: Unter französischer Besatzung gründeten M
 
 - **Goethe: Belagerung von Maynz (Mai–Juli 1793)** — deutsch nach der Erstausgabe, *Aus meinem Leben*, Zweyter Abtheilung fünfter Theil (Cotta 1822), S. 417–485; englisch in der gemeinfreien Übersetzung der *Miscellaneous Travels*, hg. von L. Dora Schmitz (London 1884), S. 251–279; beide am Seitenbild gelesen.
 
-Dazu fünfzehn Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Gegenstimmen aus der Stadt, Caroline Böhmer und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
+- **Caroline: Briefe aus Mainz und aus der Haft (Oktober 1792 – Juni 1793)** — *Caroline. Briefe*, hg. von G. Waitz, Bd. 1 (Leipzig 1871), Nr. 68–79; am Seitenbild gelesen, mit englischer Übersetzung.
+
+Dazu siebzehn Vergleiche. Geplant sind Forsters *Darstellung der Revolution in Mainz*, Gegenstimmen aus der Stadt und das Nachleben bei König und Klein; die Seite „Texte“ nennt sie mit ihren Quellen und dazu, was geprüft und nicht aufgenommen wurde. Die Tafeln stammen aus gemeinfreien oder CC0-Reproduktionen über Wikimedia Commons (`tools/build-plates.py`).
 
 **Nur Gemeinfreies.** Die großen modernen Editionen (Scheel 1975–1989; Hansen 1931–1938, in den USA bandweise erst ab 2027 frei) werden nicht benutzt; jeder Text ist am Seitenbild eines gemeinfreien Drucks gelesen.
 

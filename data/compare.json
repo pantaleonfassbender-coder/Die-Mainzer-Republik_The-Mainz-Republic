@@ -434,6 +434,70 @@
      ]
     }
    ]
+  },
+  {
+   "id": "buerger",
+   "titel": "Der Bürger und das Joch",
+   "titel_en": "The burgher and the yoke",
+   "frage": "Herbst 1792: Was wollten die Mainzer?",
+   "frage_en": "Autumn 1792: what did the people of Mainz want?",
+   "note": "Hoffmann sieht die meisten Bürger am 21. Oktober „mißvergnügt, ja untröstlich“ über die Übergabe. Caroline schreibt sechs Tage später, dem Bürger sei nicht wohl, wenn er das Joch nicht auf dem Nacken fühle, und denkt an den Bauern, der drei Tage von vieren für seine Herren arbeite. Beide sprechen von denselben Leuten; jede Seite erklärt sich ihr Schweigen anders.",
+   "note_en": "Hoffmann sees most citizens on 21 October 'displeased, indeed inconsolable' at the surrender. Caroline writes six days later that the burgher is not comfortable unless he feels the yoke on his neck, and thinks of the peasant who works three days out of four for his lords. Both speak of the same people; each side explains their silence differently.",
+   "voices": [
+    {
+     "text": "custine",
+     "sec": "einzug",
+     "n": [
+      15
+     ]
+    },
+    {
+     "text": "caroline",
+     "sec": "mainz",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "caroline",
+     "sec": "mainz",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gerechtigkeit",
+   "titel": "Gerechtigkeit ohne Verhör",
+   "titel_en": "Justice without a hearing",
+   "frage": "1793: Ausgewiesene und Geiseln auf beiden Seiten.",
+   "frage_en": "1793: the expelled and hostages on both sides.",
+   "note": "Im Februar werden die geistlichen Räte von den Franzosen ohne Verhör über die Rheinbrücke geführt. Im Juni sitzt Caroline auf Königstein, mit Gefangenen, „welche ohne Untersuchung dort schmachten“, und sah 160, die „durch deutsche Hände“ gegangen waren. Ihr Vorwurf an die eigene Seite: nicht dass man strafe, sondern dass Unschuldige ohne Verhör jammern müssen.",
+   "note_en": "In February the clerical councillors are led across the Rhine bridge by the French without a hearing. In June Caroline sits in Königstein with prisoners 'who languish there without investigation', and saw 160 who had gone 'through German hands'. Her reproach to her own side: not that one punishes, but that the innocent must suffer without a hearing.",
+   "voices": [
+    {
+     "text": "eid",
+     "sec": "ausweisung",
+     "n": [
+      21
+     ]
+    },
+    {
+     "text": "caroline",
+     "sec": "haft",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "caroline",
+     "sec": "haft",
+     "n": [
+      9
+     ]
+    }
+   ]
   }
  ]
 }

@@ -163,8 +163,12 @@
    "side": "zeugen",
    "titel": "Caroline flieht",
    "titel_en": "Caroline flees",
-   "text": "Caroline Böhmer verlässt Mainz, wird auf der Flucht von preußischen Truppen verhaftet und auf die Festung Königstein gebracht. (Nach modernen Darstellungen; Modul geplant.)",
-   "text_en": "Caroline Böhmer leaves Mainz, is arrested in flight by Prussian troops and taken to the fortress of Königstein. (After modern accounts; module planned.)"
+   "text": "Caroline Böhmer verlässt Mainz am 30. März mit ihrer Tochter, wird vor Oppenheim von preußischen Truppen verhaftet und auf die Festung Königstein gebracht, als Geisel ohne Verhör. Im Juni kommt sie in Ortsarrest nach Kronberg, im Juli frei.",
+   "text_en": "Caroline Böhmer leaves Mainz on 30 March with her daughter, is arrested by Prussian troops before Oppenheim and taken to the fortress of Königstein, a hostage without a hearing. In June she is confined to the town of Kronberg, in July released.",
+   "cite": "#/text/caroline/haft/6",
+   "citeLabel": "Caroline [6]",
+   "citeLabel_en": "Caroline [6]",
+   "plate": "koenigstein"
   },
   {
    "d": "April 1793",
